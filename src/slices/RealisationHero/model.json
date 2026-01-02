@@ -1,0 +1,16 @@
+{
+  "id": "realisation_hero",
+  "type": "SharedSlice",
+  "name": "RealisationHero",
+  "description": "RealisationHero",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": ""
+    }
+  ]
+}

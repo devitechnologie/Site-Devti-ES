@@ -1,0 +1,95 @@
+{
+  "id": "drop_down_menu",
+  "type": "SharedSlice",
+  "name": "NavMenus",
+  "description": "DropDownMenu",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Services DropDown",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "menu_text": {
+          "type": "Text",
+          "config": {
+            "label": "Menu Text",
+            "placeholder": ""
+          }
+        },
+        "services_title": {
+          "type": "Group",
+          "config": {
+            "label": "Services Title",
+            "repeat": true,
+            "fields": {
+              "service_title_link": {
+                "type": "Link",
+                "config": {
+                  "label": "Service Title Link",
+                  "placeholder": "",
+                  "select": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "oneLinkUrl",
+      "name": "one link URL",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "menu_text": {
+          "type": "Text",
+          "config": {
+            "label": "Menu Text",
+            "placeholder": ""
+          }
+        },
+        "link_url": {
+          "type": "Link",
+          "config": {
+            "label": "Link URL",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "select": null
+          }
+        },
+        "sub_nav_links": {
+          "type": "Group",
+          "config": {
+            "label": "Sub nav links",
+            "repeat": true,
+            "fields": {
+              "link_name": {
+                "type": "Text",
+                "config": {
+                  "label": "Link Name",
+                  "placeholder": ""
+                }
+              },
+              "link": {
+                "type": "Link",
+                "config": {
+                  "label": "Link",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "select": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

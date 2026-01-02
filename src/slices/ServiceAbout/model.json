@@ -1,0 +1,225 @@
+{
+  "id": "service_about",
+  "type": "SharedSlice",
+  "name": "ServiceAbout",
+  "description": "ServiceAbout",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "badge_text": {
+          "type": "Text",
+          "config": {
+            "label": "Badge Text",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "title_heading": {
+          "type": "Select",
+          "config": {
+            "label": "Title heading",
+            "placeholder": "",
+            "options": [
+              "h2",
+              "h1"
+            ],
+            "default_value": "h2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink,rtl,list-item,o-list-item"
+          }
+        },
+        "button_text": {
+          "type": "Text",
+          "config": {
+            "label": "Button text",
+            "placeholder": ""
+          }
+        },
+        "button_link": {
+          "type": "Link",
+          "config": {
+            "label": "Button Link",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "withBullets",
+      "name": "With Bullets",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "title_heading": {
+          "type": "Select",
+          "config": {
+            "label": "Title heading",
+            "placeholder": "",
+            "options": [
+              "h2",
+              "h1"
+            ],
+            "default_value": "h2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink,rtl,list-item,o-list-item"
+          }
+        },
+        "bullet_points": {
+          "type": "Group",
+          "config": {
+            "label": "Bullet Points",
+            "repeat": true,
+            "fields": {
+              "bullet_point": {
+                "type": "Text",
+                "config": {
+                  "label": "Bullet Point",
+                  "placeholder": ""
+                }
+              },
+              "bullet_description": {
+                "type": "Text",
+                "config": {
+                  "label": "Bullet Description",
+                  "placeholder": ""
+                }
+              }
+            }
+          }
+        },
+        "reverse_on_mobile": {
+          "type": "Boolean",
+          "config": {
+            "label": "Reverse on mobile",
+            "default_value": false,
+            "placeholder_true": "true",
+            "placeholder_false": "false"
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "reverse",
+      "name": "Reverse",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "badge_text": {
+          "type": "Text",
+          "config": {
+            "label": "Badge Text",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "title_heading": {
+          "type": "Select",
+          "config": {
+            "label": "Title heading",
+            "placeholder": "",
+            "options": [
+              "h2",
+              "h1"
+            ],
+            "default_value": "h2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink,rtl,list-item,o-list-item"
+          }
+        },
+        "button_text": {
+          "type": "Text",
+          "config": {
+            "label": "Button text",
+            "placeholder": ""
+          }
+        },
+        "button_link": {
+          "type": "Link",
+          "config": {
+            "label": "Button Link",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

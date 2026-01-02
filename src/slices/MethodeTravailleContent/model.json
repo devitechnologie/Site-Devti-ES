@@ -1,0 +1,18 @@
+{
+  "id": "methode_travaille_content",
+  "type": "SharedSlice",
+  "name": "MethodeTravailleContent",
+  "description": "MethodeTravailleContent",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

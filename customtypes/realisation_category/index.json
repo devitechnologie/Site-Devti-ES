@@ -1,0 +1,33 @@
+{
+  "format": "custom",
+  "id": "realisation_category",
+  "label": "Realisation Category",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "UID"
+        },
+        "type": "UID"
+      },
+      "name": {
+        "type": "Text",
+        "config": {
+          "label": "Name",
+          "placeholder": ""
+        }
+      },
+      "priority": {
+        "type": "Select",
+        "config": {
+          "label": "Priority",
+          "placeholder": "",
+          "options": ["5", "4", "3", "2", "1"],
+          "default_value": "5"
+        }
+      }
+    }
+  }
+}

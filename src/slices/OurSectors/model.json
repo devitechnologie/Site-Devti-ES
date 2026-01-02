@@ -1,0 +1,67 @@
+{
+  "id": "our_sectors",
+  "type": "SharedSlice",
+  "name": "OurSectors",
+  "description": "OurSectors",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "em,hyperlink,paragraph,strong,list-item,o-list-item"
+          }
+        },
+        "sectors": {
+          "type": "Group",
+          "config": {
+            "label": "sectors",
+            "repeat": true,
+            "fields": {
+              "image": {
+                "type": "Image",
+                "config": {
+                  "label": "Image",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              },
+              "link": {
+                "type": "Link",
+                "config": {
+                  "label": "Link",
+                  "placeholder": "",
+                  "select": null
+                }
+              },
+              "link_text": {
+                "type": "Text",
+                "config": {
+                  "label": "Link Text",
+                  "placeholder": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

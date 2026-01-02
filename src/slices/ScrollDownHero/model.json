@@ -1,0 +1,54 @@
+{
+  "id": "scroll_down_hero",
+  "type": "SharedSlice",
+  "name": "ScrollDownHero",
+  "description": "ScrollDownHero",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "badge_text": {
+          "type": "Text",
+          "config": {
+            "label": "Badge text",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "colored_title": {
+          "type": "Text",
+          "config": {
+            "label": "Colored Title",
+            "placeholder": ""
+          }
+        },
+        "subtitle": {
+          "type": "Text",
+          "config": {
+            "label": "Subtitle",
+            "placeholder": ""
+          }
+        },
+        "to_section_id": {
+          "type": "Text",
+          "config": {
+            "label": "To Section ID",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

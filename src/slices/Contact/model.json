@@ -1,0 +1,48 @@
+{
+  "id": "contact",
+  "type": "SharedSlice",
+  "name": "Contact",
+  "description": "Contact",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    },
+    {
+      "id": "withReviews",
+      "name": "WithReviews",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    },
+    {
+      "id": "2Cols",
+      "name": "2 Cols",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "bullets": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Bullets",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "list-item,strong,em"
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "hero_slider",
+  "type": "SharedSlice",
+  "name": "HeroSlider",
+  "description": "HeroSlider",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "hero_slides": {
+          "type": "Group",
+          "config": {
+            "label": "Hero Slides",
+            "repeat": true,
+            "fields": {
+              "title": {
+                "type": "Text",
+                "config": {
+                  "label": "Title",
+                  "placeholder": ""
+                }
+              },
+              "colored_title": {
+                "type": "Text",
+                "config": {
+                  "label": "Colored Title",
+                  "placeholder": ""
+                }
+              },
+              "subtitle": {
+                "type": "Text",
+                "config": {
+                  "label": "subtitle",
+                  "placeholder": ""
+                }
+              },
+              "button_text": {
+                "type": "Text",
+                "config": {
+                  "label": "Button Text",
+                  "placeholder": ""
+                }
+              },
+              "button_link": {
+                "type": "Link",
+                "config": {
+                  "label": "Button Link",
+                  "placeholder": "",
+                  "select": null
+                }
+              },
+              "hero_image": {
+                "type": "Select",
+                "config": {
+                  "label": "Hero Image",
+                  "placeholder": "",
+                  "options": [
+                    "Rocket",
+                    "Tech",
+                    "Custom"
+                  ],
+                  "default_value": "Rocket"
+                }
+              },
+              "custom_image": {
+                "type": "Image",
+                "config": {
+                  "label": "Custom Image",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

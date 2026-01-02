@@ -1,0 +1,95 @@
+{
+  "format": "page",
+  "id": "job_offer",
+  "label": "Job Offer",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "UID"
+        },
+        "type": "UID"
+      },
+      "job_title": {
+        "type": "Text",
+        "config": {
+          "label": "Job title",
+          "placeholder": ""
+        }
+      },
+      "brief_description": {
+        "type": "Text",
+        "config": {
+          "label": "Brief description",
+          "placeholder": ""
+        }
+      },
+      "contract": {
+        "type": "Text",
+        "config": {
+          "label": "contract",
+          "placeholder": ""
+        }
+      },
+      "type": {
+        "type": "Text",
+        "config": {
+          "label": "type",
+          "placeholder": ""
+        }
+      },
+      "job_description": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Job Description",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {}
+        }
+      }
+    },
+    "SEO & Metadata": {
+      "meta_title": {
+        "config": {
+          "label": "Meta Title",
+          "placeholder": "A title of the page used for social media and search engines"
+        },
+        "type": "Text"
+      },
+      "meta_description": {
+        "config": {
+          "label": "Meta Description",
+          "placeholder": "A brief summary of the page"
+        },
+        "type": "Text"
+      },
+      "meta_image": {
+        "config": {
+          "constraint": {
+            "height": 1260,
+            "width": 2400
+          },
+          "label": "Meta Image",
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "meta_keywords": {
+        "type": "Text",
+        "config": {
+          "label": "meta keywords",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}

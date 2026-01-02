@@ -1,0 +1,91 @@
+{
+  "id": "service_reviews",
+  "type": "SharedSlice",
+  "name": "ServiceReviews",
+  "description": "ServiceReviews",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "subtitle": {
+          "type": "Text",
+          "config": {
+            "label": "Subtitle",
+            "placeholder": ""
+          }
+        },
+        "reviews": {
+          "type": "Group",
+          "config": {
+            "label": "reviews",
+            "repeat": true,
+            "fields": {
+              "review_text": {
+                "type": "Text",
+                "config": {
+                  "label": "Review Text",
+                  "placeholder": ""
+                }
+              },
+              "review_country": {
+                "type": "Select",
+                "config": {
+                  "label": "Review Country",
+                  "placeholder": "",
+                  "options": [
+                    "MA",
+                    "FR",
+                    "BE",
+                    "DE",
+                    "ES",
+                    "IT",
+                    "GB",
+                    "US",
+                    "CA",
+                    "NL"
+                  ],
+                  "default_value": "MA"
+                }
+              },
+              "partenaire_name": {
+                "type": "Text",
+                "config": {
+                  "label": "Partenaire Name",
+                  "placeholder": ""
+                }
+              },
+              "partenaire_position": {
+                "type": "Text",
+                "config": {
+                  "label": "Partenaire Position",
+                  "placeholder": ""
+                }
+              },
+              "partenaire_image": {
+                "type": "Image",
+                "config": {
+                  "label": "Partenaire Image",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

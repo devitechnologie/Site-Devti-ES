@@ -1,0 +1,18 @@
+{
+  "id": "spacer",
+  "type": "SharedSlice",
+  "name": "Spacer",
+  "description": "Spacer",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

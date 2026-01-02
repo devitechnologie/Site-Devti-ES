@@ -1,0 +1,24 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"description": {
+				"__TYPE__": "FieldContent",
+				"value": "occasionally",
+				"type": "Text"
+			},
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "classroom",
+				"type": "Text"
+			},
+			"title_colored": {
+				"__TYPE__": "FieldContent",
+				"value": "machinery",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

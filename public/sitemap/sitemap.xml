@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://devtitechnologie.com/sitemap/page-sitemap.xml</loc>
+    <lastmod>2024-02-05</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://devtitechnologie.com/sitemap/blog-sitemap.xml</loc>
+    <lastmod>2024-02-05</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://devtitechnologie.com/sitemap/services-sitemap.xml</loc>
+    <lastmod>2024-02-05</lastmod>
+  </sitemap>
+</sitemapindex>

@@ -1,0 +1,18 @@
+{
+  "id": "terms_content",
+  "type": "SharedSlice",
+  "name": "TermsContent",
+  "description": "TermsContent",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

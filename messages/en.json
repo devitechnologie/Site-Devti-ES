@@ -1,0 +1,882 @@
+{
+  "language": "en",
+  "english": "English",
+  "french": "French",
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": {
+      "title": "Services",
+      "siteWeb": {
+        "title": "Website Development",
+        "vitrine": "Showcase Website",
+        "ecommerce": "E-commerce Website",
+        "annonce": "Advert Website",
+        "instutionel": "Institutional Website",
+        "surmesure": "Customized Website",
+        "educatifs": "Educational Website",
+        "profetionnel": "Professional Website (B2B)"
+      },
+      "mobile": {
+        "title": "Mobile Development",
+        "reservation": "Reservation Application",
+        "ecommerce": "E-commerce Application",
+        "suivi": "Tracking Application",
+        "sante": "Health Application",
+        "finance": "Finance Application",
+        "productivite": "Productivity Application",
+        "education": "Educational Application",
+        "actualites": "News Application"
+      },
+      "logiciel": {
+        "title": "Software Development",
+        "financiere": "Financial Management Software",
+        "commerciale": "Commercial Management Software",
+        "entreprise": "Enterprise Management Software",
+        "stocks": "Inventory Management Software",
+        "logistique": "Logistics Management Software",
+        "ecole": "School Management Software"
+      },
+      "developpement-specifique": {
+        "title": "Specific Development"
+      },
+      "webapp": {
+        "title": "Web Application Development",
+        "crm": "CRM - Customer Relationship Management Application",
+        "gestionProjets": "Project Management Application",
+        "gestionApprovisionnement": "Supply Chain Management Applications",
+        "gestionRessourcesHumaines": "Human Resources Management Application",
+        "comptabilite": "Accounting Applications"
+      }
+    },
+    "realisation": "Our Achievements",
+    "methodetravaille": "Work Method",
+    "enquiry": "Estimate Your Project",
+    "consult": "Consult Us"
+  },
+  "home": {
+    "heroSection": {
+      "title": "Is your business visible on the",
+      "subtitle": "Boost your online visibility today",
+      "contactMe": "Get help from an expert",
+      "title2": "Is your website or application at the",
+      "subtitle2": "Bring it up to speed today",
+      "title2Span": "height?"
+    },
+    "description": {
+      "title": "Your business has the potential to thrive online",
+      "p1": "Imagine that your website or mobile application <strong> serves as the showcase for your business</strong>, attracting new customers and generating sales.",
+      "p2": "Imagine that <strong>you can manage your business more efficiently</strong>, automating tasks and optimizing your processes.",
+      "p3": "Imagine that <strong>you can stand out from your competitors</strong> and gain market share."
+    },
+    "services": {
+      "title": "Solutions to make the process easier for you",
+      "description": "The online solutions developed by Devti Technologie are designed to be simple and compatible with the new generation, without requiring technological knowledge. They will help you save time and money by automating time-consuming tasks. Consider our solutions as an investment in your business: a way to grow, succeed and prosper with less effort.",
+      "service1": "WEBSITE DEVELOPMENT",
+      "service2": "MOBILE DEVELOPMENT",
+      "service3": "SOFTWARE DEVELOPMENT",
+      "service4": "WEB APPLICATION DEVELOPMENT",
+      "service5": "UI/UX Design",
+      "service6": "Search Engine Optimization (SEO)"
+    },
+    "portfolio": {
+      "title": "Concrete results for our clients",
+      "description": "Our clients successes are our motivation",
+      "seeMore": "See Projects"
+    },
+    "methodOfWorking": {
+      "title": "Working Method",
+      "description": "Do you have a website creation project? Do you want to improve your current website? Do you need a web developer to assist you with your project? You're in the right place!",
+      "etape1": {
+        "title": "Analysis & Design",
+        "description": "We listen to your needs, study your market, and design a custom solution tailored to your objectives."
+      },
+      "etape2": {
+        "title": "Development & Testing",
+        "description": "From design to implementation, we test each step to ensure performance and security."
+      },
+      "etape3": {
+        "title": "Launch & Optimization",
+        "description": "Once launched, we continue to optimize, monitor performance, and support you to ensure lasting success."
+      }
+    },
+    "functionnalites": {
+      "title": "Infinite Feature Possibilities",
+      "description": "We turn all your ideas into reality!",
+      "card1": {
+        "analytics": "Analytics",
+        "annuaire": "Directory",
+        "authentification": "Authentication",
+        "agenda": "Calendar",
+        "camera": "Camera",
+        "carte/navigation": "Maps / Navigation",
+        "chat/aideenligne": "Chat / Online Help",
+        "commentairesetmoderation": "Comments and Moderation",
+        "connexionapi": "API Integration",
+        "envoidemails/documents": "Email and Document Sending"
+      },
+      "card2": {
+        "ecommerce": "E-commerce",
+        "foireauxquestions": "FAQ",
+        "favorisetenvies": "Favorites and Wishlists",
+        "fildactualiteetfeed": "News Feed",
+        "formulaires": "Forms",
+        "forum": "Forum",
+        "geolocalisation": "Geolocation",
+        "gestiondesutilisateurs": "User Management",
+        "livraison": "Delivery",
+        "messagerieinstantanee": "Instant Messaging",
+        "multilingue": "Multilingual",
+        "notesetavis": "Notes and Reviews"
+      },
+      "card3": {
+        "elearning": "E-learning",
+        "paiement": "Payment",
+        "partagesocial": "Social Sharing",
+        "photos": "Photos",
+        "profilutilisateur": "User Profile",
+        "notifications": "Notifications",
+        "stockagedefichiers": "File Storage",
+        "story": "Story",
+        "reservation": "Reservation",
+        "tableaudebord": "Dashboard",
+        "trietfiltres": "Sorting and Filters",
+        "uploadvideos": "Video Upload"
+      }
+    },
+    "callToAction": {
+      "title": "Ready to turn your vision into reality?",
+      "description": "We are here to help you grow your business and achieve your goals.",
+      "button": "Estimate Your Project"
+    },
+    "chiffres": {
+      "title": "Numbers and statistics don't lie.",
+      "description1": "Looking to grow your business online? We can help.",
+      "description2": "We've assisted dozens of businesses in expanding their online presence, regardless of their size.",
+      "description3": "For instance, we aided a tourism company in increasing its online sales by 25% in one year. We also helped a professional services firm acquire 50 new clients in 3 months.",
+      "link": "Don't believe it? Check out the testimonials",
+      "linkText": "below.🔰",
+      "projects": "Projects",
+      "clients": "Clients",
+      "team": "Team",
+      "annees_d_experience": "Years of Experience"
+    },
+    "ourClientsReviews": {
+      "title": "What our clients say about us.",
+      "description": "Discover why our clients choose us and return for every new project.",
+      "button": "View on Google",
+      "owner": "Owner",
+      "presidente": "President",
+      "ceo": "CEO",
+      "partnersLogosTitle": "Our Partners"
+    },
+    "contact": {
+      "title": "Looking to grow your business online?",
+      "description": "Start your online growth today and <strong>benefit</strong> from a <strong>-5%</strong> discount on your first project."
+    },
+    "blogSection": {
+      "title": "Explore our articles.",
+      "button": "View all articles",
+      "readMore": "Read more"
+    }
+  },
+  "voir_plus": "See more",
+  "forms": {
+    "fields": {
+      "address": "Address",
+      "coverLetter": "Cover Letter",
+      "industry": "Industry",
+      "industryOptions": [
+        "Real Estate",
+        "Beauty, Cosmetics & Personal Care",
+        "Logistics & Transportation",
+        "Professional Services & Entrepreneurs (Cleaning, HVAC, Plumbers, etc.)",
+        "Online Business",
+        "Other"
+      ],
+      "interessePar": "I am interested in",
+      "interesseParOptions": {
+        "websiteDevelopment": "WEBSITE DEVELOPMENT",
+        "mobileDevelopment": "MOBILE DEVELOPMENT",
+        "softwareDevelopment": "SOFTWARE DEVELOPMENT",
+        "webAppDevelopment": "WEB APPLICATION DEVELOPMENT",
+        "uiuxDesign": "UI/UX Design",
+        "seo": "Search Engine Optimization (SEO)",
+        "other": "Other",
+        "creationDeSitesWeb": "Creation of websites",
+        "developmentMobile": "Mobile development",
+        "specificWebDevelopment": "Specific web development",
+        "integrationIA": "AI integration",
+        "visualisationAnalyseDonnees": "Data visualization and analysis",
+        "odoo": "Odoo Integration",
+        "automationN8n": "n8n Automation"
+      },
+      "fullName": "Full Name",
+      "company": "Company Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Submit Your Message",
+      "office": "Select an office",
+      "tanger": "Tangier",
+      "casablanca": "Casablanca"
+    },
+    "errors": {
+      "fileRequired": "Please upload a file",
+      "officeRequired": "Please select an office",
+      "companyRequired": "Please enter your company name",
+      "nameRequired": "Please enter your full name",
+      "emailRequired": "Please enter your email address",
+      "emailInvalid": "Please enter a valid email address",
+      "phoneRequired": "Please enter your phone number",
+      "phoneInvalid": "Please enter a valid phone number",
+      "industryRequired": "Please select your industry",
+      "interestedInRequired": "Please select what you are interested in"
+    },
+    "successMessage": "Your message has been sent successfully",
+    "errorMessage": "An error occurred"
+  },
+  "footer": {
+    "description": "Devti Technology - Web development agency in Tangier specialized in the creation of e-commerce websites, custom websites, development of web applications, mobile applications, and custom computer systems.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About Us",
+      "howWeWork": "Our Work Method",
+      "projects": "Our Achievements",
+      "contact": "Contact Us"
+    },
+    "services": {
+      "title": "Services",
+      "websiteDevelopment": "Website Development",
+      "mobileDevelopment": "Mobile Development",
+      "softwareDevelopment": "Software Development",
+      "webAppDevelopment": "Web Application Development",
+      "uiuxDesign": "UI/UX Design",
+      "seo": "Search Engine Optimization (SEO)"
+    },
+    "legale": {
+      "title": "Legal",
+      "faq": "FAQ",
+      "blog": "Blog",
+      "termsAndConditions": "Terms and Conditions"
+    },
+    "copyRight": "© {year} Devti Technology. All rights reserved."
+  },
+  "contact": {
+    "nous-contacter": "Contact Us",
+    "titre": "Soar to the success of your",
+    "entreprise": "business",
+    "sous-titre": "Everything you need to grow your business online.",
+    "bullet-point-1": "<strong>SEO</strong> - unlock massive SEO traffic. See real results.",
+    "bullet-point-2": "<strong>Website Design</strong> - get a website that converts visitors into customers.",
+    "bullet-point-3": "<strong>App Design</strong> - get an app that converts visitors into customers.",
+    "bullet-point-4": "<strong>Content Marketing</strong> - create content that converts visitors into customers.",
+    "bullet-point-5": "<strong>Paid Media</strong> - get a positive ROI with paid media."
+  },
+  "about": {
+    "hero": {
+      "title": "Your Expert Partner for",
+      "title2": "Creating an",
+      "title3": "Exceptional Website",
+      "description": "Unleash your creativity with our team of motivated developers and designers."
+    },
+    "about": {
+      "h6": "Our Story",
+      "h2": "Website creation agency in Morocco",
+      "description": "Devti Technologie, is your website creation agency in Morocco. Since our beginnings, our passion has been to transform your ideas into reality and put your desires at the heart of our work. Today, we are not just a web agency, we are the designers of memorable online stories.",
+      "description2": "With the values of integrity, innovation and collaboration, we strive to provide our clients with cutting-edge service. Our team of skilled professionals excels in creating complete websites, agile development and integrating advanced features.",
+      "button": "See our achievements"
+    },
+    "ourValues": {
+      "h6": "Our Values",
+      "h2": "Our Core Values",
+      "description": "Enter a creative and innovative world where you are at the heart of our challenges. We support you at every stage of your mission by providing you with solutions that exceed your expectations.",
+      "integrite": "Integrity",
+      "excellence": "Excellence",
+      "collaboration": "Collaboration",
+      "innovation": "Innovation"
+    },
+    "whatYouGain": {
+      "h2": "What You Gain",
+      "description": "You immerse yourself in a world of creativity and innovation, where you are at the center of our concerns. We accompany you in the realization of your projects by offering solutions tailored to your needs.",
+      "card1": {
+        "h3": "Strategy",
+        "p": "We start by understanding your requirements, establishing clear goals, and developing a personalized strategy."
+      },
+      "card2": {
+        "h3": "Creation",
+        "p": "During the creative phase, design merges with functionality to materialize your vision."
+      },
+      "card3": {
+        "h3": "Development",
+        "p": "After thorough testing, we deploy your project, ready to attract and convert your visitors."
+      }
+    }
+  },
+  "realisation": {
+    "title": "We have completed projects for clients from various industries.",
+    "heroSection": {
+      "title": "Explore our",
+      "titleHighlight": "Achievements",
+      "description": "Discover a compilation of our most notable projects.",
+      "button": "Discover our Portfolio"
+    },
+    "portfolio": {
+      "all": "View All",
+      "types": {
+        "Site Vitrine": "Showcase Website",
+        "Site E-commerce": "E-commerce Website",
+        "Site Instutionel": "Institutional Website",
+        "Site de reservation": "Reservation Website",
+        "Site Profetionnel (B2B)": "Professional Website (B2B)",
+        "Application Web": "Web Application",
+        "Site sur Mesure": "Customized Website",
+        "Application Android": "Android Application",
+        "Application IOS": "iOS Application"
+      }
+    }
+  },
+  "methodeTravaille": {
+    "heroSection": {
+      "h6": "Working Method",
+      "h1": "CUSTOMER ORIENTED",
+      "h1Highlight": "SERVICE",
+      "p": "Our web development agency is based on the realization of all your needs. The principles of innovation and excellence are manifested in every possible way in our agency.",
+      "p2": "",
+      "p3": "",
+      "button": "Discover the secret"
+    },
+    "etapsSection": {
+      "title": "Our Working Method",
+      "step1": {
+        "h3": "Pre-Study",
+        "p": "We understand your future through an in-depth analysis by our team of experts who provide you with preliminary recommendations without which your project cannot be successful."
+      },
+      "step2": {
+        "h3": "Specifications",
+        "p": "We help you create a complete specification that will serve as a solid foundation for any future development."
+      },
+      "step3": {
+        "h3": "Agile Development",
+        "p": "The spirit of your vision is in the hands of a dedicated team following the agile methodology because of our motivation for an agile approach towards your vision."
+      },
+      "step4": {
+        "h3": "Follow-up",
+        "p": "We provide you with the necessary progress points through which you will be informed of each part of the process."
+      },
+      "step5": {
+        "h3": "Deployment",
+        "p": "Finally, we broadcast your vision online with the renohmise of your subject."
+      },
+      "step6": {
+        "h3": "Operational Maintenance and Evolutions",
+        "p": "We provide you with unlimited support and assistance to deal with all operational issues and to follow you in the future growth undertaken."
+      }
+    },
+    "form": {
+      "title": "Start your project without commitment with our 30-day guarantee",
+      "placeHolder": "Get a quote (Free)"
+    }
+  },
+  "websiteDevelopment": {
+    "hero": {
+      "title": "Your website is",
+      "titleColor": "your online image.",
+      "description": "Creating websites that captivate, convert, and stand out. Meeting your expectations and beyond.",
+      "subtitle": "Web. Strategy. Success.",
+      "ctaButton": "Launch your project today"
+    },
+    "presentation": {
+      "subtitle": "Expertise. Strategy. Success.",
+      "title": "Create a website that reflects you",
+      "description": "Your website is the first impression people will have of your business. It's crucial that it is well-designed and functional to help you achieve your goals.",
+      "cards": [
+        {
+          "description": "You don't have the time or skills to create your own website.",
+          "icon": "IoTimerOutline",
+          "title": "Lack of time/skills"
+        },
+        {
+          "description": "You don't know how to choose the right type of website for your needs.",
+          "icon": "RiScalesLine",
+          "title": "Difficulty in choosing"
+        },
+        {
+          "description": "You are afraid of making mistakes.",
+          "icon": "CiFaceFrown",
+          "title": "Fear of failure"
+        },
+        {
+          "description": "You don't know how to promote your website.",
+          "icon": "BsBullseye",
+          "title": "Lack of visibility"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "By Your Side, From Ideation to Realization",
+      "subtitle": "Your Success is Our Success",
+      "seeOurRealisations": "See Our Realizations",
+      "description": "<p>We have the <strong>experience and skills</strong> needed to create a website that will meet your requirements.</p><p>We will <strong>help you choose</strong> the right type of website for your goals.</p><p>We will guide you throughout the process of <strong>creating your website.</strong></p><p>We will help you <strong>promote</strong> your website.</p>"
+    },
+    "whythisservice": {
+      "title": "What You Gain with a Website",
+      "description": "A website is a cost-effective investment that can help you achieve your business goals. It allows you to:",
+      "listPoints": [
+        {
+          "title": "Increase your visibility and awareness"
+        },
+        {
+          "title": "Enhance your customer relationship"
+        },
+        {
+          "title": "Boost your sales"
+        },
+        {
+          "title": "Expand your business"
+        }
+      ]
+    },
+    "consultation": {
+      "title": "Schedule a Consultation",
+      "description": "<p>We are confident that you will be satisfied with our work.</p><p class='mt-2'>If you are not satisfied with your website within 30 days, we will redo it for free.</p>",
+      "buttonText": "Schedule a Free Consultation"
+    },
+    "processus": {
+      "title": "Our Achievements Speak for Themselves",
+      "subtitle": "Guided by expertise.",
+      "description": "Discover some of our exceptional creations that have transformed visions into digital successes."
+    },
+    "serviceReview": {
+      "title": "What Our Clients Say",
+      "subtitle": "Testimonials from our partners.",
+      "description": "Read the testimonials of our satisfied clients who have experienced digital transformation with our expertise."
+    },
+    "form": {
+      "title": "Estimate the price of creating your website",
+      "buttonText": "Get a Quote (Free)",
+      "selectOptions": [
+        "Showcase Website",
+        "E-commerce Website",
+        "Advert Website",
+        "Institutional Website",
+        "Customized Website",
+        "Educational Website",
+        "Professional Website (B2B)",
+        "Reservation Website",
+        "Other"
+      ]
+    }
+  },
+  "contactSection": {
+    "title": "Have questions?",
+    "buttonText": "Contact us"
+  },
+  "mobileDevelopment": {
+    "hero": {
+      "title": "Elevate Your Business with an",
+      "titleColor": "Unforgettable",
+      "afterColorText": "Mobile Application",
+      "description": "The Essence of Your Brand, Captured in a Mobile Application.",
+      "subtitle": "Mobile. Strategy. Success."
+    },
+    "presentation": {
+      "subtitle": "Expertise. Strategy. Success.",
+      "title": "Develop Your Mobile Application for Android and iOS",
+      "description": "<p>Mobile applications have become essential for businesses in every industry. They provide a new way to connect with customers, generate leads, and increase sales.</p><p class='mt-2'>However, developing a mobile application can be a challenge. Here are some of the challenges you may face.</p>",
+      "cards": [
+        {
+          "description": "Developing mobile applications can be complex and time-consuming.",
+          "title": "Complexity"
+        },
+        {
+          "description": "Lack of time or skills to successfully carry out the process.",
+          "title": "Lack of Resources"
+        },
+        {
+          "description": "Making the right choice among different technologies can be confusing.",
+          "title": "Difficult Choices"
+        },
+        {
+          "description": "Apprehension of failure or uncertainty about visibility can slow down your progress.",
+          "title": "Fear/Visibility"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "Your Comprehensive Solution for Exceptional Mobile Applications",
+      "subtitle": "Your success is our success",
+      "description": "<p>We provide the <strong> expertise you need </strong> to bring your mobile ideas to life.</p><p>Skills that will guide every step, from <strong> design to implementation.</strong> </p><p>We are here to <strong> transform your ideas </strong> into functional and high-performing applications.</p>"
+    },
+    "whyThisService": {
+      "title": "Accelerate Your Success with a Mobile Application",
+      "description": "In a world where people spend increasingly more time on their mobile devices, it is essential for businesses to have a strong mobile presence.",
+      "listPoints": [
+        {
+          "title": "Increase your visibility and significantly expand your reach."
+        },
+        {
+          "title": "Optimize your customer relationship for exceptional satisfaction."
+        },
+        {
+          "title": "Boost your sales with a strategic mobile presence."
+        },
+        {
+          "title": "Propel your business development to new heights."
+        }
+      ]
+    },
+    "allToAction": {
+      "title": "Satisfaction Guarantee",
+      "description": "<p>We are confident that you will be satisfied with your mobile application. If you are not satisfied for any reason, we will refund you.</p>",
+      "buttonText": "Schedule a Free Consultation"
+    },
+    "from": {
+      "title": "Estimate the cost of creating a mobile application",
+      "buttonText": "Receive a quote (Free)",
+      "selectOptions": [
+        "Reservation Application",
+        "E-commerce Application",
+        "Tracking Application",
+        "Health Application",
+        "Finance Application",
+        "Productivity Application",
+        "Education Application",
+        "News Application",
+        "Other"
+      ]
+    }
+  },
+  "logicielapp": {
+    "hero": {
+      "title": "Your software is your",
+      "titleColor": "tool for success.",
+      "description": "Custom software development that meets your needs and goals.",
+      "subtitle": "Software. Strategy. Success."
+    },
+    "presentation": {
+      "subtitle": "Expertise. Strategy. Success.",
+      "title": "Challenges of Software Development",
+      "description": "<p>Software development is a complex process that requires technical skills, in-depth market knowledge, and an understanding of your customers' needs. If you lack these resources, you may encounter the following challenges:</p>",
+      "cards": [
+        {
+          "description": "Manual processes take time and hinder efficiency",
+          "title": "Lack of task automation"
+        },
+        {
+          "description": "Productivity stagnates without software systems to boost performance.",
+          "title": "Inefficiency in productivity"
+        },
+        {
+          "description": "Traditional operational methods hinder overall efficiency.",
+          "title": "Operational inefficiency"
+        },
+        {
+          "description": "Expenses remain high due to the lack of software solutions to optimize costs.",
+          "title": "Non-optimized costs"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "We're Here to Help You",
+      "subtitle": "Your Success is Our Success",
+      "description": "<p>We understand the challenges of software development. That's why we're here to help you overcome these challenges and create the software you need to succeed.</p><p>We offer a range of software development services, including:</p><p><strong>1- Defining your needs and goals</strong></p><p><strong>2- Proposing solutions tailored to your budget</strong></p><p><strong>3- Guidance throughout the development process</strong></p>"
+    },
+    "whyThisService": {
+      "title": "The Advantages of Software Development",
+      "description": "Software development brings numerous benefits to your business, including:",
+      "listPoints": [
+        {
+          "title": "Increased productivity"
+        },
+        {
+          "title": "Improved efficiency"
+        },
+        {
+          "title": "Cost reduction"
+        },
+        {
+          "title": "Increased sales"
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "Satisfaction Guarantee",
+      "description": "<p>We are confident that you will be satisfied with our work. If you are not satisfied with your software within 30 days, we will redo it for free.</p>",
+      "buttonText": "Schedule a Free Consultation"
+    },
+    "form": {
+      "title": "Estimate the cost of developing your software",
+      "buttonText": "Receive a Quote (Free)",
+      "selectOptions": [
+        "Financial Management Software",
+        "Business Management Software",
+        "Enterprise Management Software",
+        "Inventory Management Software",
+        "Logistics Management Software",
+        "School Management Software",
+        "Other"
+      ]
+    }
+  },
+  "webApp": {
+    "hero": {
+      "title": "Your competitors are already using web applications.",
+      "titleColor": "And you?",
+      "description": "Learn how web applications can help you stay competitive.",
+      "subtitle": "Web App. Strategy. Success."
+    },
+    "presentation": {
+      "subtitle": "Expertise. Strategy. Success.",
+      "title": "The challenges of not having a web application",
+      "description": "<p>Without a web application, your business may face the following challenges:</p>",
+      "cards": [
+        {
+          "description": "You have to perform manual tasks that could be automated, resulting in a loss of time and money.",
+          "title": "Loss of productivity"
+        },
+        {
+          "description": "Communication with your clients or employees can be challenging, leading to errors and frustrations.",
+          "title": "Poor communication"
+        },
+        {
+          "description": "Your customers may be frustrated with a convoluted purchasing or service process.",
+          "title": "Poor customer experience"
+        },
+        {
+          "description": "You may lose customers due to more efficient competition.",
+          "title": "Loss of customers"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "We are the solution",
+      "subtitle": "Your success is our success",
+      "description": "<p>We can help you overcome these challenges by creating a custom web application that meets your needs.</p><strong>1- We will help you define your needs and goals</strong><strong>2- We will propose solutions tailored to your budget</strong><strong>3- We will accompany you throughout the development process</strong>"
+    },
+    "whyThisService": {
+      "title": "The benefits of a web application",
+      "description": "A web application can bring you many advantages, including:",
+      "pic": "BgPic3",
+      "listPoints": [
+        {
+          "title": "Increased productivity"
+        },
+        {
+          "title": "Improved communication"
+        },
+        {
+          "title": "Enhanced customer experience"
+        },
+        {
+          "title": "Increased sales"
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "Satisfaction Guarantee",
+      "description": "<p>We are confident that you will be satisfied with our work. If you are not satisfied with your software within 30 days, we will redo it for free.</p>",
+      "buttonText": "Schedule a Free Consultation"
+    },
+    "form": {
+      "title": "Estimate the development cost of your web application",
+      "buttonText": "Receive a quote (Free)",
+      "selectOptions": [
+        "CRM Customer Relationship Management application",
+        "Project management applications",
+        "Supply chain management applications",
+        "Human resources management application",
+        "Accounting applications",
+        "Other"
+      ]
+    }
+  },
+  "reviews": {
+    "waycab": {
+      "description": "Excellent developer, my website created by this company is a gem. I absolutely recommend. Thank you for the very precise work done.",
+      "position": "CEO"
+    },
+    "betty": {
+      "description": "A serious team, attentive and concerned about the quality of the work delivered. I recommend the company Devti Technologie for anyone looking for a provider in project development, monitoring, and delivery.",
+      "position": "Owner"
+    }
+  },
+  "Site Vitrine": "Showcase Website",
+  "Site sur Mesure": "Customized Website",
+  "Application Mobile": "Mobile Application",
+  "Application Web": "Web Application",
+  "blog": {
+    "about": {
+      "title": "Do you want more",
+      "bold_title": "traffic?",
+      "description": "Hi, we are Devti Technology. We are committed to growing your business through our expertise in web development.",
+      "button": "Send",
+      "placeholder": "Enter your email"
+    },
+    "about_us": {
+      "title": "About us",
+      "button": "See more",
+      "description": "Welcome to <span class='text-primary-normal-purple'>DevtiTechnologie</span>, a web design agency in Morocco that places your needs at the heart of its mission. Our story is woven from an unwavering passion for turning concepts into digital reality. Since our founding, we have evolved to become much more than an agency: we are the creators of memorable online experiences..."
+    },
+    "header": {
+      "title": "I hope you enjoy reading this blog post.",
+      "description": "If you want my team to do your marketing for you,",
+      "link": "click here."
+    },
+    "blogHero": {
+      "title": "Do you want us to do your marketing for you?",
+      "link": "Yes, I want you to do my marketing for me"
+    }
+  },
+  "cookie-notification": {
+    "title": "🍪 Cookie Notification",
+    "description": "We use cookies to ensure that we give you the best experience on our website.",
+    "link": "See our cookie policy.",
+    "accept": "Accept",
+    "refuse": "Refuse"
+  },
+  "developpement-specifique": {
+    "form": {
+      "selectOptions": [
+        "Odoo integrations",
+        "Database integrations and migrations",
+        "API integrations",
+        "Cloud infrastructures",
+        "Specific module development",
+        "Solution integrations",
+        "Cybersecurity",
+        "Other"
+      ]
+    }
+  },
+  "marketing": {
+    "form": {
+      "selectOptions": [
+        "SEO",
+        "SEA",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Email Marketing",
+        "Influencer Marketing",
+        "Other"
+      ]
+    }
+  },
+  "faq": {
+    "note": {
+      "text": "These frequently asked questions have been developed to provide you with useful information. If you have any additional questions, do not hesitate to",
+      "linkText": "contact us."
+    },
+    "title": "Frequently Asked Questions (FAQs)",
+    "text": "Welcome to our FAQ section. Here are some frequently asked questions about DevtiTechnologie, <strong className='text-primary-dark-purple'>a professional website creation web agency.</strong> If you do not find the answer to your question, do not hesitate to contact us.",
+    "hero": {
+      "title": "Frequently Asked Questions",
+      "text": "Here are some of our FAQs. If you have any other questions you would like answered, do not hesitate to send us an email.",
+      "contact": "Contact Us"
+    }
+  },
+  "whatsapp": {
+    "placeholder": "Type your message here...",
+    "chatMessage": "Hello, how can we help you?",
+    "status": "Online"
+  },
+  "lire_la_suite": "Read more",
+  "voir_moins": "See less",
+  "submit_application": "Submit application",
+  "add_resume": "Add your resume",
+  "upload_file": "Upload a file",
+  "drop_file": "Or drop a file here",
+  "en_savoir_plus": "Learn more",
+  "job": {
+    "postuler_a_ce_poste": "Apply for this position",
+    "si_vous_etes_interesse": "If you are interested in this position, please apply by clicking the button below",
+    "postuler": "Apply now",
+    "ou_envoyer_votre_candidature": "Or send your application to",
+    "successMessage": "Your application has been sent successfully",
+    "errorMessage": "An error occurred while sending your application"
+  },
+  "mobile_apps": {
+    "hero": {
+      "title": "Transform Your Ideas into",
+      "title_highlight": "Impactful Mobile Apps",
+      "description": "Our mobile applications turn your ideas into reality, helping businesses grow with intuitive and tailored technology."
+    }
+  },
+  "devti_ai": {
+    "ai_meta": {
+      "title": "AI Solutions Development in Tangier – Devti AI Platform",
+      "description": "Devti AI Platform develops custom digital AI solutions: automation, chatbots, content generation, and intelligent analysis."
+    },
+    "header": {
+      "services": "Services",
+      "faq": "FAQ",
+      "demander_une_demo": "Request a demo"
+    },
+    "hero_section": {
+      "intro": [
+        "Platform for",
+        "developing",
+        "custom",
+        "AI",
+        "solutions in Tangier"
+      ],
+      "description": "Integrate powerful AI features into your digital solutions to optimize operations and accelerate growth.",
+      "request_demo": "Request a demo"
+    },
+    "services": {
+      "title": "Our Services",
+      "description": "Five powerful AI solutions to transform your business and optimize your workflows."
+    },
+    "why_choose_devti": {
+      "title": "Why Choose Devti",
+      "description": "Our unique expertise and tailored approach ensure exceptional results.",
+      "philosophy": [
+        "At Devti, we combine development expertise in",
+        "Laravel/Next.js/Node.js",
+        "with the integration of cutting-edge AI technologies to deliver custom, robust, and scalable solutions."
+      ],
+      "philosophy_points": [
+        "100% Customized Solutions",
+        "Local Technical Support",
+        "Proven and Measurable ROI"
+      ]
+    },
+    "cta": {
+      "badge": "Transform your business now",
+      "title": "Ready to transform your business with AI?",
+      "description": "Contact us today for a personalized demo or a free audit of your AI opportunities.",
+      "button": "Request a demo"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Need more information? Our team is here to help."
+    },
+    "contactForm": {
+      "title": "Contact Us",
+      "description": "Let’s turn your ideas into innovative digital solutions. Tell us about your project.",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter your full name",
+      "companyName": "Company Name",
+      "companyNamePlaceholder": "Enter your company name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "industry": "Industry",
+      "industryPlaceholder": "Select your industry",
+      "office": "Office",
+      "officePlaceholder": "Select an office",
+      "services": "Interested Services",
+      "message": "Message",
+      "messagePlaceholder": "Describe your project in detail...",
+      "sending": "Sending...",
+      "send": "Send Message"
+    },
+    "footer": {
+      "description": "A technology platform based in Tangier, specializing in the creation of advanced AI solutions to transform your business.",
+      "contact": "Contact Us",
+      "rights": "Devti Technologie. All rights reserved.",
+      "madeWith": "Designed and developed with",
+      "locale": "Tangier, Morocco"
+    }
+  }
+}

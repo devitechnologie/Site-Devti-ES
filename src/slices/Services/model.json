@@ -1,0 +1,134 @@
+{
+  "id": "services",
+  "type": "SharedSlice",
+  "name": "Services",
+  "description": "Services",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "site_web_link": {
+          "type": "Link",
+          "config": {
+            "label": "Site Web Link",
+            "placeholder": "",
+            "select": null
+          }
+        },
+        "mobile_link": {
+          "type": "Link",
+          "config": {
+            "label": "Mobile Link",
+            "placeholder": "",
+            "select": null
+          }
+        },
+        "logiciel_link": {
+          "type": "Link",
+          "config": {
+            "label": "Logiciel link",
+            "placeholder": "",
+            "select": null
+          }
+        },
+        "web_app_link": {
+          "type": "Link",
+          "config": {
+            "label": "Web app link",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "select": null
+          }
+        },
+        "ux_ui_link": {
+          "type": "Link",
+          "config": {
+            "label": "UI/UI Link",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "select": null
+          }
+        },
+        "seo_link": {
+          "type": "Link",
+          "config": {
+            "label": "SEO Link",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "withSlides",
+      "name": "With Slides",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "badge_text": {
+          "type": "Text",
+          "config": {
+            "label": "badge text",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "services_slides": {
+          "type": "Group",
+          "config": {
+            "label": "Services Slides ",
+            "repeat": true,
+            "fields": {
+              "image": {
+                "type": "Image",
+                "config": {
+                  "label": "Image",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              },
+              "service_name": {
+                "type": "Text",
+                "config": {
+                  "label": "Service Name",
+                  "placeholder": ""
+                }
+              },
+              "description": {
+                "type": "Text",
+                "config": {
+                  "label": "Description",
+                  "placeholder": ""
+                }
+              },
+              "links": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "links",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "hyperlink"
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "format": "page",
+  "id": "realisationdetailspage",
+  "label": "RealisationDetailsPage",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "UID"
+        },
+        "type": "UID"
+      },
+      "project_presentation_image": {
+        "type": "Image",
+        "config": {
+          "label": "Project presentation image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "project_name": {
+        "type": "Text",
+        "config": {
+          "label": "Project Name",
+          "placeholder": ""
+        }
+      },
+      "client_name": {
+        "type": "Text",
+        "config": {
+          "label": "Client Name",
+          "placeholder": ""
+        }
+      },
+      "category": {
+        "type": "Link",
+        "config": {
+          "label": "Category",
+          "select": "document",
+          "customtypes": ["realisation_category"]
+        }
+      },
+      "priority": {
+        "type": "Select",
+        "config": {
+          "label": "Priority (CLOSER TO TOP)",
+          "placeholder": "",
+          "options": ["1", "2", "3", "4", "5"],
+          "default_value": "1"
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "our_clients": {
+              "type": "SharedSlice"
+            },
+            "fonctionnalites": {
+              "type": "SharedSlice"
+            },
+            "contact": {
+              "type": "SharedSlice"
+            },
+            "methode_travaille": {
+              "type": "SharedSlice"
+            },
+            "what_to_gain": {
+              "type": "SharedSlice"
+            },
+            "services": {
+              "type": "SharedSlice"
+            },
+            "portfolio": {
+              "type": "SharedSlice"
+            },
+            "brief_of_blogs": {
+              "type": "SharedSlice"
+            },
+            "faq": {
+              "type": "SharedSlice"
+            },
+            "service_hero": {
+              "type": "SharedSlice"
+            },
+            "our_sectors": {
+              "type": "SharedSlice"
+            },
+            "scroll_down_hero": {
+              "type": "SharedSlice"
+            },
+            "service_reviews": {
+              "type": "SharedSlice"
+            },
+            "spacer": {
+              "type": "SharedSlice"
+            },
+            "services_portfolio": {
+              "type": "SharedSlice"
+            },
+            "service_about": {
+              "type": "SharedSlice"
+            },
+            "service_call_to_action_form": {
+              "type": "SharedSlice"
+            },
+            "call_to_action": {
+              "type": "SharedSlice"
+            },
+            "advantages_cards": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    },
+    "SEO & Metadata": {
+      "meta_title": {
+        "config": {
+          "label": "Meta Title",
+          "placeholder": "A title of the page used for social media and search engines"
+        },
+        "type": "Text"
+      },
+      "meta_description": {
+        "config": {
+          "label": "Meta Description",
+          "placeholder": "A brief summary of the page"
+        },
+        "type": "Text"
+      },
+      "meta_image": {
+        "config": {
+          "constraint": {
+            "height": 1260,
+            "width": 2400
+          },
+          "label": "Meta Image",
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "meta_keywords": {
+        "type": "Text",
+        "config": {
+          "label": "meta keywords",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}

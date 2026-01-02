@@ -1,0 +1,65 @@
+{
+  "id": "service_call_to_action_form",
+  "type": "SharedSlice",
+  "name": "ServiceCallToActionForm",
+  "description": "ServiceCallToActionForm",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "form_title": {
+          "type": "Text",
+          "config": {
+            "label": "Form Title",
+            "placeholder": ""
+          }
+        },
+        "form_for_service": {
+          "type": "Link",
+          "config": {
+            "label": "Form For Service Type",
+            "select": "document",
+            "customtypes": [
+              "servicetype"
+            ]
+          }
+        },
+        "button_text": {
+          "type": "Text",
+          "config": {
+            "label": "Button Text",
+            "placeholder": ""
+          }
+        },
+        "contact_title": {
+          "type": "Text",
+          "config": {
+            "label": "Contact title",
+            "placeholder": ""
+          }
+        },
+        "contact_description": {
+          "type": "Text",
+          "config": {
+            "label": "Contact Description",
+            "placeholder": ""
+          }
+        },
+        "custom_image": {
+          "type": "Image",
+          "config": {
+            "label": "Custom Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

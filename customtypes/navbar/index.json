@@ -1,0 +1,52 @@
+{
+  "format": "custom",
+  "id": "navbar",
+  "label": "Navbar",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "brand_logo": {
+        "type": "Image",
+        "config": {
+          "label": "Brand Logo",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "action_button_text": {
+        "type": "Text",
+        "config": {
+          "label": "Action Button Text",
+          "placeholder": ""
+        }
+      },
+      "action_mobile_button_text": {
+        "type": "Text",
+        "config": {
+          "label": "Action mobile Button Text",
+          "placeholder": ""
+        }
+      },
+      "action_button_link": {
+        "type": "Link",
+        "config": {
+          "label": "Action Button Link",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "drop_down_menu": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

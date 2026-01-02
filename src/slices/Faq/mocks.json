@@ -1,0 +1,57 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ipsum nostrud est amet aute. Excepteur incididunt esse aliquip aliqua ea exercitation nulla. Pariatur consectetur duis pariatur aliquip aliquip nulla voluptate amet deserunt occaecat exercitation aliquip."
+						}
+					}
+				]
+			},
+			"faq_items": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "primitive",
+									"type": "Text"
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Proident aliquip eiusmod amet deserunt officia pariatur mollit non aute eiusmod esse consequat."
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			},
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "lunch",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

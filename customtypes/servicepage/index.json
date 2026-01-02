@@ -1,0 +1,122 @@
+{
+  "format": "page",
+  "id": "servicepage",
+  "label": "ServicePage",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "UID"
+        },
+        "type": "UID"
+      },
+      "type_service": {
+        "type": "Link",
+        "config": {
+          "label": "Type Service",
+          "select": "document",
+          "customtypes": ["servicetype"]
+        }
+      },
+      "nom_service": {
+        "type": "Text",
+        "config": {
+          "label": "Nom Service",
+          "placeholder": ""
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "about": {
+              "type": "SharedSlice"
+            },
+            "methode_travaille": {
+              "type": "SharedSlice"
+            },
+            "our_clients": {
+              "type": "SharedSlice"
+            },
+            "chiffres": {
+              "type": "SharedSlice"
+            },
+            "our_sectors": {
+              "type": "SharedSlice"
+            },
+            "services_cards": {
+              "type": "SharedSlice"
+            },
+            "faq": {
+              "type": "SharedSlice"
+            },
+            "fonctionnalites": {
+              "type": "SharedSlice"
+            },
+            "spacer": {
+              "type": "SharedSlice"
+            },
+            "service_call_to_action_form": {
+              "type": "SharedSlice"
+            },
+            "service_reviews": {
+              "type": "SharedSlice"
+            },
+            "services_portfolio": {
+              "type": "SharedSlice"
+            },
+            "call_to_action": {
+              "type": "SharedSlice"
+            },
+            "service_about": {
+              "type": "SharedSlice"
+            },
+            "advantages_cards": {
+              "type": "SharedSlice"
+            },
+            "service_hero": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    },
+    "SEO & Metadata": {
+      "meta_title": {
+        "config": {
+          "label": "Meta Title",
+          "placeholder": "A title of the page used for social media and search engines"
+        },
+        "type": "Text"
+      },
+      "meta_description": {
+        "config": {
+          "label": "Meta Description",
+          "placeholder": "A brief summary of the page"
+        },
+        "type": "Text"
+      },
+      "meta_image": {
+        "config": {
+          "constraint": {
+            "height": 1260,
+            "width": 2400
+          },
+          "label": "Meta Image",
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "meta_keywords": {
+        "type": "Text",
+        "config": {
+          "label": "meta keywords",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}

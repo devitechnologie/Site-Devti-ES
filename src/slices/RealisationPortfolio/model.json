@@ -1,0 +1,16 @@
+{
+  "id": "realisation_portfolio",
+  "type": "SharedSlice",
+  "name": "RealisationPortfolio",
+  "description": "RealisationPortfolio",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": ""
+    }
+  ]
+}

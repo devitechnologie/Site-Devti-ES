@@ -1,0 +1,18 @@
+{
+  "id": "portfolio",
+  "type": "SharedSlice",
+  "name": "Portfolio",
+  "description": "Portfolio",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Duis nostrud aute minim ut velit ut occaecat qui. Dolore velit dolore consectetur aliquip aliqua ullamco deserunt dolore veniam cillum sunt eu. Cupidatat non ex eu deserunt."
+						}
+					}
+				]
+			},
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "hill",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

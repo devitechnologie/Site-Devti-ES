@@ -1,0 +1,155 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"badge_text": {
+				"__TYPE__": "FieldContent",
+				"value": "headed",
+				"type": "Text"
+			},
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "accurate",
+				"type": "Text"
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Duis sit eu exercitation magna. Dolor anim proident sit irure quis commodo excepteur ad ea ut cupidatat."
+						}
+					}
+				]
+			},
+			"cards": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "Database",
+									"type": "Select"
+								}
+							],
+							[
+								"title",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "repeat",
+									"type": "Text"
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "In Lorem veniam id consequat laboris consequat esse nostrud Lorem aliqua aute minim eu dolor."
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			},
+			"alignment": {
+				"__TYPE__": "FieldContent",
+				"value": "Row",
+				"type": "Select"
+			},
+			"columns": {
+				"__TYPE__": "FieldContent",
+				"value": "2 Cols",
+				"type": "Select"
+			}
+		},
+		"items": []
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "withoutIcons",
+		"primary": {
+			"badge_text": {
+				"__TYPE__": "FieldContent",
+				"value": "temperature",
+				"type": "Text"
+			},
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "sent",
+				"type": "Text"
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Magna est cillum esse do non ea dolore. Ullamco dolor nisi enim et sunt. Deserunt et occaecat amet aliquip eiusmod eu magna."
+						}
+					}
+				]
+			},
+			"alignment": {
+				"__TYPE__": "FieldContent",
+				"value": "Row",
+				"type": "Select"
+			},
+			"columns": {
+				"__TYPE__": "FieldContent",
+				"value": "3 Cols",
+				"type": "Select"
+			},
+			"cards": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "driver",
+									"type": "Text"
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Nostrud magna magna veniam minim dolor duis consectetur cupidatat occaecat ad voluptate tempor occaecat ullamco labore. Aliqua eiusmod do eu pariatur nisi eiusmod."
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]

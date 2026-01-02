@@ -1,0 +1,92 @@
+{
+  "format": "page",
+  "id": "aboutpage",
+  "label": "AboutPage",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "chiffres": {
+              "type": "SharedSlice"
+            },
+            "brief_of_blogs": {
+              "type": "SharedSlice"
+            },
+            "about": {
+              "type": "SharedSlice"
+            },
+            "call_to_action": {
+              "type": "SharedSlice"
+            },
+            "methode_travaille": {
+              "type": "SharedSlice"
+            },
+            "contact": {
+              "type": "SharedSlice"
+            },
+            "our_clients": {
+              "type": "SharedSlice"
+            },
+            "portfolio": {
+              "type": "SharedSlice"
+            },
+            "fonctionnalites": {
+              "type": "SharedSlice"
+            },
+            "services": {
+              "type": "SharedSlice"
+            },
+            "what_to_gain": {
+              "type": "SharedSlice"
+            },
+            "about_body": {
+              "type": "SharedSlice"
+            },
+            "about_hero": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    },
+    "SEO & Metadata": {
+      "meta_title": {
+        "config": {
+          "label": "Meta Title",
+          "placeholder": "A title of the page used for social media and search engines"
+        },
+        "type": "Text"
+      },
+      "meta_description": {
+        "config": {
+          "label": "Meta Description",
+          "placeholder": "A brief summary of the page"
+        },
+        "type": "Text"
+      },
+      "meta_image": {
+        "config": {
+          "constraint": {
+            "height": 1260,
+            "width": 2400
+          },
+          "label": "Meta Image",
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "meta_keywords": {
+        "type": "Text",
+        "config": {
+          "label": "meta keywords",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}

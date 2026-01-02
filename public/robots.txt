@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /api/
+Disallow: /static/
+Disallow: /_next/
+Disallow: /server/
+Disallow: /cache/
+Disallow: /types/
+Disallow: /app-build-manifest.json
+Disallow: /build-manifest.json
+Disallow: /react-loadable-manifest.json
+Disallow: /trace
+
+Sitemap: https://devtitechnologie.com/sitemap/sitemap.xml

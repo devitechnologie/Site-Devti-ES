@@ -1,0 +1,89 @@
+{
+  "id": "fonctionnalites",
+  "type": "SharedSlice",
+  "name": "Fonctionnalites",
+  "description": "Fonctionnalites",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {}
+    },
+    {
+      "id": "customFeaturesCard",
+      "name": "Custom features card",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "subtitle": {
+          "type": "Text",
+          "config": {
+            "label": "Subtitle",
+            "placeholder": ""
+          }
+        },
+        "group_cards": {
+          "type": "Group",
+          "config": {
+            "label": "Group cards",
+            "repeat": true,
+            "fields": {
+              "icon": {
+                "type": "Image",
+                "config": {
+                  "label": "Icon",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              },
+              "name": {
+                "type": "Text",
+                "config": {
+                  "label": "Name",
+                  "placeholder": ""
+                }
+              },
+              "mini_desc": {
+                "type": "Text",
+                "config": {
+                  "label": "Mini desc",
+                  "placeholder": ""
+                }
+              },
+              "card_link": {
+                "type": "Link",
+                "config": {
+                  "label": "Card Link",
+                  "placeholder": "",
+                  "select": null
+                }
+              },
+              "group_by": {
+                "type": "Text",
+                "config": {
+                  "label": "Group By",
+                  "placeholder": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

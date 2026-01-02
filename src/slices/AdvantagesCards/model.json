@@ -1,0 +1,218 @@
+{
+  "id": "advantages_cards",
+  "type": "SharedSlice",
+  "name": "AdvantagesCards",
+  "description": "AdvantagesCards",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "badge_text": {
+          "type": "Text",
+          "config": {
+            "label": "badge text",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,list-item,o-list-item,rtl,hyperlink"
+          }
+        },
+        "alignment": {
+          "type": "Select",
+          "config": {
+            "label": "Alignment",
+            "placeholder": "",
+            "options": [
+              "Row",
+              "Col"
+            ],
+            "default_value": "Row"
+          }
+        },
+        "columns": {
+          "type": "Select",
+          "config": {
+            "label": "Columns (4 or 3 or 2) default (4)",
+            "placeholder": "if col set to 4 max is 4 by default",
+            "options": [
+              "4 Cols",
+              "2 Cols",
+              "3 Cols"
+            ],
+            "default_value": "4 Cols"
+          }
+        },
+        "cards": {
+          "type": "Group",
+          "config": {
+            "label": "Cards",
+            "repeat": true,
+            "fields": {
+              "icon": {
+                "type": "Select",
+                "config": {
+                  "label": "Icon",
+                  "placeholder": "",
+                  "options": [
+                    "Puzzle",
+                    "Cubes",
+                    "Face",
+                    "Target",
+                    "Timer",
+                    "Scales",
+                    "Rouages",
+                    "Rouage",
+                    "Money",
+                    "CommentSlash",
+                    "SadFace",
+                    "Analytics",
+                    "FaceSmile",
+                    "Tools",
+                    "ChartPie",
+                    "Seedling",
+                    "Rocket",
+                    "Lightning",
+                    "Mobile",
+                    "Heartbeat",
+                    "List",
+                    "CalendarCheck",
+                    "Search",
+                    "Bug",
+                    "Shield",
+                    "NetworkWired",
+                    "Wifi",
+                    "GlobeEurope",
+                    "Database",
+                    "Cloud",
+                    "Server",
+                    "Hdd"
+                  ],
+                  "default_value": "Puzzle"
+                }
+              },
+              "title": {
+                "type": "Text",
+                "config": {
+                  "label": "Title",
+                  "placeholder": ""
+                }
+              },
+              "description": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Description",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "withoutIcons",
+      "name": "WithoutIcons",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "badge_text": {
+          "type": "Text",
+          "config": {
+            "label": "badge text",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,list-item,o-list-item,rtl,hyperlink"
+          }
+        },
+        "alignment": {
+          "type": "Select",
+          "config": {
+            "label": "Alignment",
+            "placeholder": "",
+            "options": [
+              "Row",
+              "Col"
+            ],
+            "default_value": "Row"
+          }
+        },
+        "columns": {
+          "type": "Select",
+          "config": {
+            "label": "Columns (4 or 3 or 2) default (4)",
+            "placeholder": "if col set to 4 max is 4 by default",
+            "options": [
+              "4 Cols",
+              "2 Cols",
+              "3 Cols"
+            ],
+            "default_value": "4 Cols"
+          }
+        },
+        "cards": {
+          "type": "Group",
+          "config": {
+            "label": "Cards",
+            "repeat": true,
+            "fields": {
+              "title": {
+                "type": "Text",
+                "config": {
+                  "label": "Title",
+                  "placeholder": ""
+                }
+              },
+              "description": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Description",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

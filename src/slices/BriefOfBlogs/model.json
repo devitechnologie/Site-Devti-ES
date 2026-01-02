@@ -1,0 +1,38 @@
+{
+  "id": "brief_of_blogs",
+  "type": "SharedSlice",
+  "name": "BriefOfBlogs",
+  "description": "BriefOfBlogs",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "blogs": {
+          "type": "Group",
+          "config": {
+            "label": "Blogs",
+            "repeat": true,
+            "fields": {
+              "blog": {
+                "type": "Link",
+                "config": {
+                  "label": "Blog",
+                  "select": "document",
+                  "customtypes": [
+                    "blogpost"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

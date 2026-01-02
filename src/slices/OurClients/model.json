@@ -1,0 +1,126 @@
+{
+  "id": "our_clients",
+  "type": "SharedSlice",
+  "name": "OurClients",
+  "description": "OurClients",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "partners_logos": {
+          "type": "Group",
+          "config": {
+            "label": "Partners Logos",
+            "repeat": true,
+            "fields": {
+              "image": {
+                "type": "Image",
+                "config": {
+                  "label": "Image",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        },
+        "clients_logos": {
+          "type": "Group",
+          "config": {
+            "label": "Clients Logos",
+            "repeat": true,
+            "fields": {
+              "image": {
+                "type": "Image",
+                "config": {
+                  "label": "image",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        },
+        "custom_reviews": {
+          "type": "Group",
+          "config": {
+            "label": "Custom reviews",
+            "repeat": true,
+            "fields": {
+              "avatar": {
+                "type": "Image",
+                "config": {
+                  "label": "Avatar",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              },
+              "name": {
+                "type": "Text",
+                "config": {
+                  "label": "Name",
+                  "placeholder": ""
+                }
+              },
+              "job_title": {
+                "type": "Text",
+                "config": {
+                  "label": "Job title",
+                  "placeholder": ""
+                }
+              },
+              "review_text": {
+                "type": "Text",
+                "config": {
+                  "label": "Review Text",
+                  "placeholder": ""
+                }
+              },
+              "country_code": {
+                "type": "Text",
+                "config": {
+                  "label": "Country code",
+                  "placeholder": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "slider",
+      "name": "slider",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "images": {
+          "type": "Group",
+          "config": {
+            "label": "Images",
+            "repeat": true,
+            "fields": {
+              "image": {
+                "type": "Image",
+                "config": {
+                  "label": "image",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
