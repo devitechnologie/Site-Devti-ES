@@ -1,11 +1,11 @@
 import { TLocale } from "@/i18n";
 
 export const getPrismicLocale = (lang: TLocale): string => {
-  return lang === 'en' ? 'en-us' : 'fr-fr';
+  return 'es-es';
 }
 
 export const getNextLocale = (lang: string): TLocale => {
-  return lang === 'en-us' ? 'en' : 'fr';
+  return 'es';
 }
 
 // truncate text

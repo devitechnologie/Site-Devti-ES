@@ -1,0 +1,883 @@
+{
+  "language": "es",
+  "english": "Inglés",
+  "french": "Francés",
+  "spanish": "Español",
+  "navbar": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": {
+      "title": "Servicios",
+      "siteWeb": {
+        "title": "Desarrollo Web",
+        "vitrine": "Sitio Web Vitrina",
+        "ecommerce": "Sitio Web de Comercio Electrónico",
+        "annonce": "Sitio Web de Anuncios",
+        "instutionel": "Sitio Web Institucional",
+        "surmesure": "Sitio Web Personalizado",
+        "educatifs": "Sitio Web Educativo",
+        "profetionnel": "Sitio Web Profesional (B2B)"
+      },
+      "mobile": {
+        "title": "Desarrollo Móvil",
+        "reservation": "Aplicación de Reservas",
+        "ecommerce": "Aplicación de Comercio Electrónico",
+        "suivi": "Aplicación de Seguimiento",
+        "sante": "Aplicación de Salud",
+        "finance": "Aplicación Financiera",
+        "productivite": "Aplicación de Productividad",
+        "education": "Aplicación Educativa",
+        "actualites": "Aplicación de Noticias"
+      },
+      "logiciel": {
+        "title": "Desarrollo de Software",
+        "financiere": "Software de Gestión Financiera",
+        "commerciale": "Software de Gestión Comercial",
+        "entreprise": "Software de Gestión Empresarial",
+        "stocks": "Software de Gestión de Inventario",
+        "logistique": "Software de Gestión Logística",
+        "ecole": "Software de Gestión Escolar"
+      },
+      "developpement-specifique": {
+        "title": "Desarrollo Específico"
+      },
+      "webapp": {
+        "title": "Desarrollo de Aplicaciones Web",
+        "crm": "Aplicación CRM - Gestión de Relaciones con Clientes",
+        "gestionProjets": "Aplicación de Gestión de Proyectos",
+        "gestionApprovisionnement": "Aplicación de Gestión de Cadena de Suministro",
+        "gestionRessourcesHumaines": "Aplicación de Gestión de Recursos Humanos",
+        "comptabilite": "Aplicaciones de Contabilidad"
+      }
+    },
+    "realisation": "Nuestros Logros",
+    "methodetravaille": "Método de Trabajo",
+    "enquiry": "Cotice Su Proyecto",
+    "consult": "Consúltenos"
+  },
+  "home": {
+    "heroSection": {
+      "title": "¿Está su negocio visible en la",
+      "subtitle": "Impulse su visibilidad en línea hoy",
+      "contactMe": "Obtenga ayuda de un experto",
+      "title2": "¿Está su sitio web o aplicación a la",
+      "subtitle2": "Póngalo al día hoy",
+      "title2Span": "altura?"
+    },
+    "description": {
+      "title": "Su negocio tiene el potencial para prosperar en línea",
+      "p1": "Imagine que su sitio web o aplicación móvil <strong>sirve como el escaparate de su negocio</strong>, atrayendo nuevos clientes y generando ventas.",
+      "p2": "Imagine que <strong>puede gestionar su negocio de manera más eficiente</strong>, automatizando tareas y optimizando sus procesos.",
+      "p3": "Imagine que <strong>puede destacarse de sus competidores</strong> y ganar cuota de mercado."
+    },
+    "services": {
+      "title": "Soluciones para facilitarle el proceso",
+      "description": "Las soluciones en línea desarrolladas por Devti Technologie están diseñadas para ser simples y compatibles con la nueva generación, sin requerir conocimientos tecnológicos. Le ayudarán a ahorrar tiempo y dinero automatizando tareas que consumen tiempo. Considere nuestras soluciones como una inversión en su negocio: una forma de crecer, triunfar y prosperar con menos esfuerzo.",
+      "service1": "DESARROLLO WEB",
+      "service2": "DESARROLLO MÓVIL",
+      "service3": "DESARROLLO DE SOFTWARE",
+      "service4": "DESARROLLO DE APLICACIONES WEB",
+      "service5": "Diseño UI/UX",
+      "service6": "Optimización para Motores de Búsqueda (SEO)"
+    },
+    "portfolio": {
+      "title": "Resultados concretos para nuestros clientes",
+      "description": "Los éxitos de nuestros clientes son nuestra motivación",
+      "seeMore": "Ver Proyectos"
+    },
+    "methodOfWorking": {
+      "title": "Método de Trabajo",
+      "description": "¿Tiene un proyecto de creación de sitio web? ¿Desea mejorar su sitio web actual? ¿Necesita un desarrollador web que le asista con su proyecto? ¡Está en el lugar correcto!",
+      "etape1": {
+        "title": "Análisis y Diseño",
+        "description": "Escuchamos sus necesidades, estudiamos su mercado y diseñamos una solución personalizada adaptada a sus objetivos."
+      },
+      "etape2": {
+        "title": "Desarrollo y Pruebas",
+        "description": "Del diseño a la implementación, probamos cada paso para garantizar rendimiento y seguridad."
+      },
+      "etape3": {
+        "title": "Lanzamiento y Optimización",
+        "description": "Una vez lanzado, continuamos optimizando, monitoreando el rendimiento y apoyándole para garantizar un éxito duradero."
+      }
+    },
+    "functionnalites": {
+      "title": "Posibilidades Infinitas de Funcionalidades",
+      "description": "¡Convertimos todas sus ideas en realidad!",
+      "card1": {
+        "analytics": "Analítica",
+        "annuaire": "Directorio",
+        "authentification": "Autenticación",
+        "agenda": "Calendario",
+        "camera": "Cámara",
+        "carte/navigation": "Mapas / Navegación",
+        "chat/aideenligne": "Chat / Ayuda en línea",
+        "commentairesetmoderation": "Comentarios y Moderación",
+        "connexionapi": "Integración de API",
+        "envoidemails/documents": "Envío de Correos y Documentos"
+      },
+      "card2": {
+        "ecommerce": "Comercio Electrónico",
+        "foireauxquestions": "Preguntas Frecuentes",
+        "favorisetenvies": "Favoritos y Listas de Deseos",
+        "fildactualiteetfeed": "Feed de Noticias",
+        "formulaires": "Formularios",
+        "forum": "Foro",
+        "geolocalisation": "Geolocalización",
+        "gestiondesutilisateurs": "Gestión de Usuarios",
+        "livraison": "Entrega",
+        "messagerieinstantanee": "Mensajería Instantánea",
+        "multilingue": "Multilingüe",
+        "notesetavis": "Notas y Reseñas"
+      },
+      "card3": {
+        "elearning": "E-learning",
+        "paiement": "Pago",
+        "partagesocial": "Compartir en Redes Sociales",
+        "photos": "Fotos",
+        "profilutilisateur": "Perfil de Usuario",
+        "notifications": "Notificaciones",
+        "stockagedefichiers": "Almacenamiento de Archivos",
+        "story": "Historia",
+        "reservation": "Reserva",
+        "tableaudebord": "Panel de Control",
+        "trietfiltres": "Ordenamiento y Filtros",
+        "uploadvideos": "Subida de Videos"
+      }
+    },
+    "callToAction": {
+      "title": "¿Listo para convertir su visión en realidad?",
+      "description": "Estamos aquí para ayudarle a hacer crecer su negocio y alcanzar sus objetivos.",
+      "button": "Cotice Su Proyecto"
+    },
+    "chiffres": {
+      "title": "Los números y estadísticas no mienten.",
+      "description1": "¿Busca hacer crecer su negocio en línea? Podemos ayudarle.",
+      "description2": "Hemos asistido a decenas de negocios para expandir su presencia en línea, sin importar su tamaño.",
+      "description3": "Por ejemplo, ayudamos a una empresa de turismo a incrementar sus ventas en línea un 25% en un año. También ayudamos a una firma de servicios profesionales a adquirir 50 nuevos clientes en 3 meses.",
+      "link": "¿No lo cree? Consulte los testimonios",
+      "linkText": "abajo.🔰",
+      "projects": "Proyectos",
+      "clients": "Clientes",
+      "team": "Equipo",
+      "annees_d_experience": "Años de Experiencia"
+    },
+    "ourClientsReviews": {
+      "title": "Lo que dicen nuestros clientes sobre nosotros.",
+      "description": "Descubra por qué nuestros clientes nos eligen y regresan por cada nuevo proyecto.",
+      "button": "Ver en Google",
+      "owner": "Propietario",
+      "presidente": "Presidente",
+      "ceo": "CEO",
+      "partnersLogosTitle": "Nuestros Socios"
+    },
+    "contact": {
+      "title": "¿Busca hacer crecer su negocio en línea?",
+      "description": "Comience su crecimiento en línea hoy y <strong>beneficie</strong> de un descuento del <strong>-5%</strong> en su primer proyecto."
+    },
+    "blogSection": {
+      "title": "Explore nuestros artículos.",
+      "button": "Ver todos los artículos",
+      "readMore": "Leer más"
+    }
+  },
+  "voir_plus": "Ver más",
+  "forms": {
+    "fields": {
+      "address": "Dirección",
+      "coverLetter": "Carta de Presentación",
+      "industry": "Industria",
+      "industryOptions": [
+        "Bienes Raíces",
+        "Belleza, Cosméticos y Cuidado Personal",
+        "Logística y Transporte",
+        "Servicios Profesionales y Emprendedores (Limpieza, HVAC, Fontaneros, etc.)",
+        "Negocio en Línea",
+        "Otro"
+      ],
+      "interessePar": "Estoy interesado en",
+      "interesseParOptions": {
+        "websiteDevelopment": "DESARROLLO WEB",
+        "mobileDevelopment": "DESARROLLO MÓVIL",
+        "softwareDevelopment": "DESARROLLO DE SOFTWARE",
+        "webAppDevelopment": "DESARROLLO DE APLICACIONES WEB",
+        "uiuxDesign": "Diseño UI/UX",
+        "seo": "Optimización para Motores de Búsqueda (SEO)",
+        "other": "Otro",
+        "creationDeSitesWeb": "Creación de sitios web",
+        "developmentMobile": "Desarrollo móvil",
+        "specificWebDevelopment": "Desarrollo web específico",
+        "integrationIA": "Integración de IA",
+        "visualisationAnalyseDonnees": "Visualización y análisis de datos",
+        "odoo": "Integración Odoo",
+        "automationN8n": "Automatización n8n"
+      },
+      "fullName": "Nombre Completo",
+      "company": "Nombre de la Empresa",
+      "email": "Dirección de Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "message": "Mensaje",
+      "submit": "Enviar Su Mensaje",
+      "office": "Seleccionar una oficina",
+      "tanger": "Tánger",
+      "casablanca": "Casablanca"
+    },
+    "errors": {
+      "fileRequired": "Por favor, suba un archivo",
+      "officeRequired": "Por favor, seleccione una oficina",
+      "companyRequired": "Por favor, ingrese el nombre de su empresa",
+      "nameRequired": "Por favor, ingrese su nombre completo",
+      "emailRequired": "Por favor, ingrese su dirección de correo electrónico",
+      "emailInvalid": "Por favor, ingrese una dirección de correo electrónico válida",
+      "phoneRequired": "Por favor, ingrese su número de teléfono",
+      "phoneInvalid": "Por favor, ingrese un número de teléfono válido",
+      "industryRequired": "Por favor, seleccione su industria",
+      "interestedInRequired": "Por favor, seleccione en qué está interesado"
+    },
+    "successMessage": "Su mensaje ha sido enviado con éxito",
+    "errorMessage": "Ocurrió un error"
+  },
+  "footer": {
+    "description": "Devti Technologie - Agencia de desarrollo web en Tánger especializada en la creación de sitios web de comercio electrónico, sitios web personalizados, desarrollo de aplicaciones web, aplicaciones móviles y sistemas informáticos personalizados.",
+    "quickLinks": {
+      "title": "Enlaces Rápidos",
+      "home": "Inicio",
+      "about": "Sobre Nosotros",
+      "howWeWork": "Nuestro Método de Trabajo",
+      "projects": "Nuestros Logros",
+      "contact": "Contáctenos"
+    },
+    "services": {
+      "title": "Servicios",
+      "websiteDevelopment": "Desarrollo Web",
+      "mobileDevelopment": "Desarrollo Móvil",
+      "softwareDevelopment": "Desarrollo de Software",
+      "webAppDevelopment": "Desarrollo de Aplicaciones Web",
+      "uiuxDesign": "Diseño UI/UX",
+      "seo": "Optimización para Motores de Búsqueda (SEO)"
+    },
+    "legale": {
+      "title": "Legal",
+      "faq": "Preguntas Frecuentes",
+      "blog": "Blog",
+      "termsAndConditions": "Términos y Condiciones"
+    },
+    "copyRight": "© {year} Devti Technologie. Todos los derechos reservados."
+  },
+  "contact": {
+    "nous-contacter": "Contáctenos",
+    "titre": "Ascienda al éxito de su",
+    "entreprise": "negocio",
+    "sous-titre": "Todo lo que necesita para hacer crecer su negocio en línea.",
+    "bullet-point-1": "<strong>SEO</strong> - desbloquee tráfico SEO masivo. Vea resultados reales.",
+    "bullet-point-2": "<strong>Diseño Web</strong> - obtenga un sitio web que convierta visitantes en clientes.",
+    "bullet-point-3": "<strong>Diseño de Aplicaciones</strong> - obtenga una aplicación que convierta visitantes en clientes.",
+    "bullet-point-4": "<strong>Marketing de Contenidos</strong> - cree contenido que convierta visitantes en clientes.",
+    "bullet-point-5": "<strong>Medios de Pago</strong> - obtenga un ROI positivo con medios de pago."
+  },
+  "about": {
+    "hero": {
+      "title": "Su Socio Experto para",
+      "title2": "Crear un",
+      "title3": "Sitio Web Excepcional",
+      "description": "Desate su creatividad con nuestro equipo de desarrolladores y diseñadores motivados."
+    },
+    "about": {
+      "h6": "Nuestra Historia",
+      "h2": "Agencia de creación de sitios web en Marruecos",
+      "description": "Devti Technologie, es su agencia de creación de sitios web en Marruecos. Desde nuestros inicios, nuestra pasión ha sido transformar sus ideas en realidad y poner sus deseos en el corazón de nuestro trabajo. Hoy, no somos solo una agencia web, somos los diseñadores de historias en línea memorables.",
+      "description2": "Con los valores de integridad, innovación y colaboración, nos esforzamos por brindar a nuestros clientes un servicio de vanguardia. Nuestro equipo de profesionales calificados sobresale en la creación de sitios web completos, desarrollo ágil e integración de funciones avanzadas.",
+      "button": "Vea nuestros logros"
+    },
+    "ourValues": {
+      "h6": "Nuestros Valores",
+      "h2": "Nuestros Valores Fundamentales",
+      "description": "Ingrese a un mundo creativo e innovador donde usted está en el centro de nuestros desafíos. Le apoyamos en cada etapa de su misión proporcionándole soluciones que superan sus expectativas.",
+      "integrite": "Integridad",
+      "excellence": "Excelencia",
+      "collaboration": "Colaboración",
+      "innovation": "Innovación"
+    },
+    "whatYouGain": {
+      "h2": "Lo Que Obtiene",
+      "description": "Se sumerge en un mundo de creatividad e innovación, donde usted es el centro de nuestras preocupaciones. Le acompañamos en la realización de sus proyectos ofreciendo soluciones adaptadas a sus necesidades.",
+      "card1": {
+        "h3": "Estrategia",
+        "p": "Comenzamos comprendiendo sus requisitos, estableciendo objetivos claros y desarrollando una estrategia personalizada."
+      },
+      "card2": {
+        "h3": "Creación",
+        "p": "Durante la fase creativa, el diseño se fusiona con la funcionalidad para materializar su visión."
+      },
+      "card3": {
+        "h3": "Desarrollo",
+        "p": "Después de pruebas exhaustivas, desplegamos su proyecto, listo para atraer y convertir a sus visitantes."
+      }
+    }
+  },
+  "realisation": {
+    "title": "Hemos completado proyectos para clientes de diversas industrias.",
+    "heroSection": {
+      "title": "Explore nuestros",
+      "titleHighlight": "Logros",
+      "description": "Descubra una recopilación de nuestros proyectos más notables.",
+      "button": "Descubra nuestro Portafolio"
+    },
+    "portfolio": {
+      "all": "Ver Todos",
+      "types": {
+        "Site Vitrine": "Sitio Web Vitrina",
+        "Site E-commerce": "Sitio Web de Comercio Electrónico",
+        "Site Instutionel": "Sitio Web Institucional",
+        "Site de reservation": "Sitio Web de Reservas",
+        "Site Profetionnel (B2B)": "Sitio Web Profesional (B2B)",
+        "Application Web": "Aplicación Web",
+        "Site sur Mesure": "Sitio Web Personalizado",
+        "Application Android": "Aplicación Android",
+        "Application IOS": "Aplicación iOS"
+      }
+    }
+  },
+  "methodeTravaille": {
+    "heroSection": {
+      "h6": "Método de Trabajo",
+      "h1": "SERVICIO",
+      "h1Highlight": "ORIENTADO AL CLIENTE",
+      "p": "Nuestra agencia de desarrollo web se basa en la realización de todas sus necesidades. Los principios de innovación y excelencia se manifiestan en cada forma posible en nuestra agencia.",
+      "p2": "",
+      "p3": "",
+      "button": "Descubra el secreto"
+    },
+    "etapsSection": {
+      "title": "Nuestro Método de Trabajo",
+      "step1": {
+        "h3": "Pre-Estudio",
+        "p": "Comprendemos su futuro a través de un análisis en profundidad por nuestro equipo de expertos que le proporciona recomendaciones preliminares sin las cuales su proyecto no puede tener éxito."
+      },
+      "step2": {
+        "h3": "Especificaciones",
+        "p": "Le ayudamos a crear una especificación completa que servirá como base sólida para cualquier desarrollo futuro."
+      },
+      "step3": {
+        "h3": "Desarrollo Ágil",
+        "p": "El espíritu de su visión está en las manos de un equipo dedicado siguiendo la metodología ágil debido a nuestra motivación por un enfoque ágil hacia su visión."
+      },
+      "step4": {
+        "h3": "Seguimiento",
+        "p": "Le proporcionamos los puntos de progreso necesarios a través de los cuales se le informará de cada parte del proceso."
+      },
+      "step5": {
+        "h3": "Despliegue",
+        "p": "Finalmente, transmitimos su visión en línea con el renombre de su tema."
+      },
+      "step6": {
+        "h3": "Mantenimiento Operativo y Evoluciones",
+        "p": "Le proporcionamos soporte y asistencia ilimitados para tratar todos los problemas operativos y seguirle en el crecimiento futuro emprendido."
+      }
+    },
+    "form": {
+      "title": "Comience su proyecto sin compromiso con nuestra garantía de 30 días",
+      "placeHolder": "Obtener una cotización (Gratis)"
+    }
+  },
+  "websiteDevelopment": {
+    "hero": {
+      "title": "Su sitio web es",
+      "titleColor": "su imagen en línea.",
+      "description": "Creando sitios web que cautivan, convierten y destacan. Cumpliendo sus expectativas y más allá.",
+      "subtitle": "Web. Estrategia. Éxito.",
+      "ctaButton": "Lance su proyecto hoy"
+    },
+    "presentation": {
+      "subtitle": "Experiencia. Estrategia. Éxito.",
+      "title": "Cree un sitio web que lo refleje",
+      "description": "Su sitio web es la primera impresión que las personas tendrán de su negocio. Es crucial que esté bien diseñado y sea funcional para ayudarle a alcanzar sus objetivos.",
+      "cards": [
+        {
+          "description": "No tiene el tiempo o las habilidades para crear su propio sitio web.",
+          "icon": "IoTimerOutline",
+          "title": "Falta de tiempo/habilidades"
+        },
+        {
+          "description": "No sabe cómo elegir el tipo correcto de sitio web para sus necesidades.",
+          "icon": "RiScalesLine",
+          "title": "Dificultad para elegir"
+        },
+        {
+          "description": "Tiene miedo de cometer errores.",
+          "icon": "CiFaceFrown",
+          "title": "Miedo al fracaso"
+        },
+        {
+          "description": "No sabe cómo promocionar su sitio web.",
+          "icon": "BsBullseye",
+          "title": "Falta de visibilidad"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "A Su Lado, Desde la Ideación hasta la Realización",
+      "subtitle": "Su Éxito es Nuestro Éxito",
+      "seeOurRealisations": "Vea Nuestras Realizaciones",
+      "description": "<p>Tenemos la <strong>experiencia y las habilidades</strong> necesarias para crear un sitio web que cumpla con sus requisitos.</p><p>Le <strong>ayudaremos a elegir</strong> el tipo correcto de sitio web para sus objetivos.</p><p>Le guiaremos a lo largo del proceso de <strong>creación de su sitio web.</strong></p><p>Le ayudaremos a <strong>promocionar</strong> su sitio web.</p>"
+    },
+    "whythisservice": {
+      "title": "Lo Que Gana con un Sitio Web",
+      "description": "Un sitio web es una inversión rentable que puede ayudarle a alcanzar sus objetivos comerciales. Le permite:",
+      "listPoints": [
+        {
+          "title": "Aumentar su visibilidad y conocimiento"
+        },
+        {
+          "title": "Mejorar su relación con el cliente"
+        },
+        {
+          "title": "Impulsar sus ventas"
+        },
+        {
+          "title": "Expandir su negocio"
+        }
+      ]
+    },
+    "consultation": {
+      "title": "Programe una Consulta",
+      "description": "<p>Estamos seguros de que estará satisfecho con nuestro trabajo.</p><p class='mt-2'>Si no está satisfecho con su sitio web dentro de los 30 días, lo reharemos gratuitamente.</p>",
+      "buttonText": "Programe una Consulta Gratuita"
+    },
+    "processus": {
+      "title": "Nuestros Logros Hablan por Sí Mismos",
+      "subtitle": "Guiados por la experiencia.",
+      "description": "Descubra algunas de nuestras creaciones excepcionales que han transformado visiones en éxitos digitales."
+    },
+    "serviceReview": {
+      "title": "Lo Que Dicen Nuestros Clientes",
+      "subtitle": "Testimonios de nuestros socios.",
+      "description": "Lea los testimonios de nuestros clientes satisfechos que han experimentado la transformación digital con nuestra experiencia."
+    },
+    "form": {
+      "title": "Estime el precio de la creación de su sitio web",
+      "buttonText": "Obtener una Cotización (Gratis)",
+      "selectOptions": [
+        "Sitio Web Vitrina",
+        "Sitio Web de Comercio Electrónico",
+        "Sitio Web de Anuncios",
+        "Sitio Web Institucional",
+        "Sitio Web Personalizado",
+        "Sitio Web Educativo",
+        "Sitio Web Profesional (B2B)",
+        "Sitio Web de Reservas",
+        "Otro"
+      ]
+    }
+  },
+  "contactSection": {
+    "title": "¿Tiene preguntas?",
+    "buttonText": "Contáctenos"
+  },
+  "mobileDevelopment": {
+    "hero": {
+      "title": "Eleve Su Negocio con una",
+      "titleColor": "Inolvidable",
+      "afterColorText": "Aplicación Móvil",
+      "description": "La Esencia de Su Marca, Capturada en una Aplicación Móvil.",
+      "subtitle": "Móvil. Estrategia. Éxito."
+    },
+    "presentation": {
+      "subtitle": "Experiencia. Estrategia. Éxito.",
+      "title": "Desarrolle Su Aplicación Móvil para Android e iOS",
+      "description": "<p>Las aplicaciones móviles se han vuelto esenciales para los negocios en todas las industrias. Proporcionan una nueva forma de conectar con clientes, generar leads y aumentar ventas.</p><p class='mt-2'>Sin embargo, desarrollar una aplicación móvil puede ser un desafío. Aquí están algunos de los desafíos que puede enfrentar.</p>",
+      "cards": [
+        {
+          "description": "Desarrollar aplicaciones móviles puede ser complejo y consumir tiempo.",
+          "title": "Complejidad"
+        },
+        {
+          "description": "Falta de tiempo o habilidades para llevar a cabo el proceso con éxito.",
+          "title": "Falta de Recursos"
+        },
+        {
+          "description": "Tomar la elección correcta entre diferentes tecnologías puede ser confuso.",
+          "title": "Decisiones Difíciles"
+        },
+        {
+          "description": "La aprensión al fracaso o la incertidumbre sobre la visibilidad pueden ralentizar su progreso.",
+          "title": "Miedo/Visibilidad"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "Su Solución Integral para Aplicaciones Móviles Excepcionales",
+      "subtitle": "Su éxito es nuestro éxito",
+      "description": "<p>Proporcionamos la <strong> experiencia que necesita </strong> para dar vida a sus ideas móviles.</p><p>Habilidades que guiarán cada paso, desde el <strong> diseño hasta la implementación.</strong> </p><p>Estamos aquí para <strong> transformar sus ideas </strong> en aplicaciones funcionales y de alto rendimiento.</p>"
+    },
+    "whyThisService": {
+      "title": "Acelere Su Éxito con una Aplicación Móvil",
+      "description": "En un mundo donde las personas pasan cada vez más tiempo en sus dispositivos móviles, es esencial para los negocios tener una fuerte presencia móvil.",
+      "listPoints": [
+        {
+          "title": "Aumente su visibilidad y expanda significativamente su alcance."
+        },
+        {
+          "title": "Optimice su relación con el cliente para una satisfacción excepcional."
+        },
+        {
+          "title": "Impulse sus ventas con una presencia móvil estratégica."
+        },
+        {
+          "title": "Impulse el desarrollo de su negocio a nuevas alturas."
+        }
+      ]
+    },
+    "allToAction": {
+      "title": "Garantía de Satisfacción",
+      "description": "<p>Estamos seguros de que estará satisfecho con su aplicación móvil. Si no está satisfecho por cualquier razón, le reembolsaremos.</p>",
+      "buttonText": "Programe una Consulta Gratuita"
+    },
+    "from": {
+      "title": "Estime el costo de crear una aplicación móvil",
+      "buttonText": "Recibir una cotización (Gratis)",
+      "selectOptions": [
+        "Aplicación de Reservas",
+        "Aplicación de Comercio Electrónico",
+        "Aplicación de Seguimiento",
+        "Aplicación de Salud",
+        "Aplicación Financiera",
+        "Aplicación de Productividad",
+        "Aplicación Educativa",
+        "Aplicación de Noticias",
+        "Otro"
+      ]
+    }
+  },
+  "logicielapp": {
+    "hero": {
+      "title": "Su software es su",
+      "titleColor": "herramienta para el éxito.",
+      "description": "Desarrollo de software personalizado que cumple con sus necesidades y objetivos.",
+      "subtitle": "Software. Estrategia. Éxito."
+    },
+    "presentation": {
+      "subtitle": "Experiencia. Estrategia. Éxito.",
+      "title": "Desafíos del Desarrollo de Software",
+      "description": "<p>El desarrollo de software es un proceso complejo que requiere habilidades técnicas, conocimiento profundo del mercado y comprensión de las necesidades de sus clientes. Si carece de estos recursos, puede encontrar los siguientes desafíos:</p>",
+      "cards": [
+        {
+          "description": "Los procesos manuales toman tiempo y obstaculizan la eficiencia",
+          "title": "Falta de automatización de tareas"
+        },
+        {
+          "description": "La productividad se estanca sin sistemas de software para impulsar el rendimiento.",
+          "title": "Ineficiencia en la productividad"
+        },
+        {
+          "description": "Los métodos operativos tradicionales obstaculizan la eficiencia general.",
+          "title": "Ineficiencia operativa"
+        },
+        {
+          "description": "Los gastos permanecen altos debido a la falta de soluciones de software para optimizar costos.",
+          "title": "Costos no optimizados"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "Estamos Aquí para Ayudarle",
+      "subtitle": "Su Éxito es Nuestro Éxito",
+      "description": "<p>Entendemos los desafíos del desarrollo de software. Por eso estamos aquí para ayudarle a superar estos desafíos y crear el software que necesita para triunfar.</p><p>Ofrecemos una gama de servicios de desarrollo de software, incluyendo:</p><p><strong>1- Definir sus necesidades y objetivos</strong></p><p><strong>2- Proponer soluciones adaptadas a su presupuesto</strong></p><p><strong>3- Guiarle durante todo el proceso de desarrollo</strong></p>"
+    },
+    "whyThisService": {
+      "title": "Las Ventajas del Desarrollo de Software",
+      "description": "El desarrollo de software aporta numerosos beneficios a su negocio, incluyendo:",
+      "listPoints": [
+        {
+          "title": "Aumento de la productividad"
+        },
+        {
+          "title": "Mejora de la eficiencia"
+        },
+        {
+          "title": "Reducción de costos"
+        },
+        {
+          "title": "Aumento de ventas"
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "Garantía de Satisfacción",
+      "description": "<p>Estamos seguros de que estará satisfecho con nuestro trabajo. Si no está satisfecho con su software dentro de los 30 días, lo reharemos gratuitamente.</p>",
+      "buttonText": "Programe una Consulta Gratuita"
+    },
+    "form": {
+      "title": "Estime el costo de desarrollar su software",
+      "buttonText": "Recibir una Cotización (Gratis)",
+      "selectOptions": [
+        "Software de Gestión Financiera",
+        "Software de Gestión Comercial",
+        "Software de Gestión Empresarial",
+        "Software de Gestión de Inventario",
+        "Software de Gestión Logística",
+        "Software de Gestión Escolar",
+        "Otro"
+      ]
+    }
+  },
+  "webApp": {
+    "hero": {
+      "title": "Sus competidores ya están usando aplicaciones web.",
+      "titleColor": "¿Y usted?",
+      "description": "Aprenda cómo las aplicaciones web pueden ayudarle a mantenerse competitivo.",
+      "subtitle": "Aplicación Web. Estrategia. Éxito."
+    },
+    "presentation": {
+      "subtitle": "Experiencia. Estrategia. Éxito.",
+      "title": "Los desafíos de no tener una aplicación web",
+      "description": "<p>Sin una aplicación web, su negocio puede enfrentar los siguientes desafíos:</p>",
+      "cards": [
+        {
+          "description": "Tiene que realizar tareas manuales que podrían automatizarse, resultando en una pérdida de tiempo y dinero.",
+          "title": "Pérdida de productividad"
+        },
+        {
+          "description": "La comunicación con sus clientes o empleados puede ser desafiante, conduciendo a errores y frustraciones.",
+          "title": "Mala comunicación"
+        },
+        {
+          "description": "Sus clientes pueden frustrarse con un proceso de compra o servicio complicado.",
+          "title": "Mala experiencia del cliente"
+        },
+        {
+          "description": "Puede perder clientes debido a la competencia más eficiente.",
+          "title": "Pérdida de clientes"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "Somos la solución",
+      "subtitle": "Su éxito es nuestro éxito",
+      "description": "<p>Podemos ayudarle a superar estos desafíos creando una aplicación web personalizada que cumpla con sus necesidades.</p><strong>1- Le ayudaremos a definir sus necesidades y objetivos</strong><strong>2- Propondremos soluciones adaptadas a su presupuesto</strong><strong>3- Le acompañaremos durante todo el proceso de desarrollo</strong>"
+    },
+    "whyThisService": {
+      "title": "Los beneficios de una aplicación web",
+      "description": "Una aplicación web puede traerle muchas ventajas, incluyendo:",
+      "pic": "BgPic3",
+      "listPoints": [
+        {
+          "title": "Aumento de la productividad"
+        },
+        {
+          "title": "Mejora de la comunicación"
+        },
+        {
+          "title": "Experiencia del cliente mejorada"
+        },
+        {
+          "title": "Aumento de ventas"
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "Garantía de Satisfacción",
+      "description": "<p>Estamos seguros de que estará satisfecho con nuestro trabajo. Si no está satisfecho con su software dentro de los 30 días, lo reharemos gratuitamente.</p>",
+      "buttonText": "Programe una Consulta Gratuita"
+    },
+    "form": {
+      "title": "Estime el costo de desarrollo de su aplicación web",
+      "buttonText": "Recibir una cotización (Gratis)",
+      "selectOptions": [
+        "Aplicación CRM de Gestión de Relaciones con Clientes",
+        "Aplicaciones de gestión de proyectos",
+        "Aplicaciones de gestión de cadena de suministro",
+        "Aplicación de gestión de recursos humanos",
+        "Aplicaciones de contabilidad",
+        "Otro"
+      ]
+    }
+  },
+  "reviews": {
+    "waycab": {
+      "description": "Desarrollador excelente, mi sitio web creado por esta empresa es una joya. Lo recomiendo absolutamente. Gracias por el trabajo muy preciso realizado.",
+      "position": "CEO"
+    },
+    "betty": {
+      "description": "Un equipo serio, atento y preocupado por la calidad del trabajo entregado. Recomiendo la empresa Devti Technologie para cualquiera que busque un proveedor en desarrollo de proyectos, seguimiento y entrega.",
+      "position": "Propietario"
+    }
+  },
+  "Site Vitrine": "Sitio Web Vitrina",
+  "Site sur Mesure": "Sitio Web Personalizado",
+  "Application Mobile": "Aplicación Móvil",
+  "Application Web": "Aplicación Web",
+  "blog": {
+    "about": {
+      "title": "¿Quiere más",
+      "bold_title": "tráfico?",
+      "description": "Hola, somos Devti Technologie. Nos comprometemos a hacer crecer su negocio a través de nuestra experiencia en desarrollo web.",
+      "button": "Enviar",
+      "placeholder": "Ingrese su correo electrónico"
+    },
+    "about_us": {
+      "title": "Sobre nosotros",
+      "button": "Ver más",
+      "description": "Bienvenido a <span class='text-primary-normal-purple'>DevtiTechnologie</span>, una agencia de diseño web en Marruecos que coloca sus necesidades en el corazón de su misión. Nuestra historia está tejida a partir de una pasión inquebrantable por convertir conceptos en realidad digital. Desde nuestra fundación, hemos evolucionado para ser mucho más que una agencia: somos los creadores de experiencias en línea memorables..."
+    },
+    "header": {
+      "title": "Espero que disfrute leyendo esta publicación del blog.",
+      "description": "Si quiere que mi equipo haga su marketing por usted,",
+      "link": "haga clic aquí."
+    },
+    "blogHero": {
+      "title": "¿Quiere que hagamos su marketing por usted?",
+      "link": "Sí, quiero que hagan mi marketing por mí"
+    }
+  },
+  "cookie-notification": {
+    "title": "🍪 Notificación de Cookies",
+    "description": "Usamos cookies para garantizar que le brindamos la mejor experiencia en nuestro sitio web.",
+    "link": "Vea nuestra política de cookies.",
+    "accept": "Aceptar",
+    "refuse": "Rechazar"
+  },
+  "developpement-specifique": {
+    "form": {
+      "selectOptions": [
+        "Integraciones Odoo",
+        "Integraciones y migraciones de bases de datos",
+        "Integraciones de API",
+        "Infraestructuras en la nube",
+        "Desarrollo de módulos específicos",
+        "Integraciones de soluciones",
+        "Ciberseguridad",
+        "Otro"
+      ]
+    }
+  },
+  "marketing": {
+    "form": {
+      "selectOptions": [
+        "SEO",
+        "SEA",
+        "Marketing en Redes Sociales",
+        "Marketing de Contenidos",
+        "Email Marketing",
+        "Marketing de Influencers",
+        "Otro"
+      ]
+    }
+  },
+  "faq": {
+    "note": {
+      "text": "Estas preguntas frecuentes se han desarrollado para proporcionarle información útil. Si tiene alguna pregunta adicional, no dude en",
+      "linkText": "contactarnos."
+    },
+    "title": "Preguntas Frecuentes (FAQs)",
+    "text": "Bienvenido a nuestra sección de preguntas frecuentes. Aquí hay algunas preguntas frecuentes sobre DevtiTechnologie, <strong className='text-primary-dark-purple'>una agencia web profesional de creación de sitios web.</strong> Si no encuentra la respuesta a su pregunta, no dude en contactarnos.",
+    "hero": {
+      "title": "Preguntas Frecuentes",
+      "text": "Aquí hay algunas de nuestras preguntas frecuentes. Si tiene otras preguntas que le gustaría responder, no dude en enviarnos un correo electrónico.",
+      "contact": "Contáctenos"
+    }
+  },
+  "whatsapp": {
+    "placeholder": "Escriba su mensaje aquí...",
+    "chatMessage": "Hola, ¿cómo podemos ayudarle?",
+    "status": "En línea"
+  },
+  "lire_la_suite": "Leer más",
+  "voir_moins": "Ver menos",
+  "submit_application": "Enviar solicitud",
+  "add_resume": "Agregue su currículum",
+  "upload_file": "Subir un archivo",
+  "drop_file": "O suelte un archivo aquí",
+  "en_savoir_plus": "Saber más",
+  "job": {
+    "postuler_a_ce_poste": "Postular a esta posición",
+    "si_vous_etes_interesse": "Si está interesado en esta posición, postule haciendo clic en el botón de abajo",
+    "postuler": "Postular ahora",
+    "ou_envoyer_votre_candidature": "O envíe su solicitud a",
+    "successMessage": "Su solicitud ha sido enviada con éxito",
+    "errorMessage": "Ocurrió un error al enviar su solicitud"
+  },
+  "mobile_apps": {
+    "hero": {
+      "title": "Transforme Sus Ideas en",
+      "title_highlight": "Aplicaciones Móviles Impactantes",
+      "description": "Nuestras aplicaciones móviles convierten sus ideas en realidad, ayudando a los negocios a crecer con tecnología intuitiva y adaptada."
+    }
+  },
+  "devti_ai": {
+    "ai_meta": {
+      "title": "Desarrollo de Soluciones de IA en Tánger – Plataforma Devti AI",
+      "description": "Plataforma Devti AI desarrolla soluciones digitales de IA personalizadas: automatización, chatbots, generación de contenido y análisis inteligente."
+    },
+    "header": {
+      "services": "Servicios",
+      "faq": "Preguntas Frecuentes",
+      "demander_une_demo": "Solicitar una demo"
+    },
+    "hero_section": {
+      "intro": [
+        "Plataforma para",
+        "desarrollar",
+        "soluciones",
+        "de IA",
+        "personalizadas en Tánger"
+      ],
+      "description": "Integre funciones potentes de IA en sus soluciones digitales para optimizar operaciones y acelerar el crecimiento.",
+      "request_demo": "Solicitar una demo"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "description": "Cinco soluciones potentes de IA para transformar su negocio y optimizar sus flujos de trabajo."
+    },
+    "why_choose_devti": {
+      "title": "Por Qué Elegir Devti",
+      "description": "Nuestra experiencia única y enfoque personalizado garantizan resultados excepcionales.",
+      "philosophy": [
+        "En Devti, combinamos experiencia de desarrollo en",
+        "Laravel/Next.js/Node.js",
+        "con la integración de tecnologías de IA de vanguardia para entregar soluciones personalizadas, robustas y escalables."
+      ],
+      "philosophy_points": [
+        "Soluciones 100% Personalizadas",
+        "Soporte Técnico Local",
+        "ROI Comprobado y Medible"
+      ]
+    },
+    "cta": {
+      "badge": "Transforme su negocio ahora",
+      "title": "¿Listo para transformar su negocio con IA?",
+      "description": "Contáctenos hoy para una demo personalizada o una auditoría gratuita de sus oportunidades de IA.",
+      "button": "Solicitar una demo"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "¿Necesita más información? Nuestro equipo está aquí para ayudarle."
+    },
+    "contactForm": {
+      "title": "Contáctenos",
+      "description": "Convirtamos sus ideas en soluciones digitales innovadoras. Cuéntenos sobre su proyecto.",
+      "fullName": "Nombre Completo",
+      "fullNamePlaceholder": "Ingrese su nombre completo",
+      "companyName": "Nombre de la Empresa",
+      "companyNamePlaceholder": "Ingrese el nombre de su empresa",
+      "email": "Dirección de Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "industry": "Industria",
+      "industryPlaceholder": "Seleccione su industria",
+      "office": "Oficina",
+      "officePlaceholder": "Seleccione una oficina",
+      "services": "Servicios de Interés",
+      "message": "Mensaje",
+      "messagePlaceholder": "Describa su proyecto en detalle...",
+      "sending": "Enviando...",
+      "send": "Enviar Mensaje"
+    },
+    "footer": {
+      "description": "Una plataforma tecnológica con sede en Tánger, especializada en la creación de soluciones avanzadas de IA para transformar su negocio.",
+      "contact": "Contáctenos",
+      "rights": "Devti Technologie. Todos los derechos reservados.",
+      "madeWith": "Diseñado y desarrollado con",
+      "locale": "Tánger, Marruecos"
+    }
+  }
+}
