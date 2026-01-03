@@ -29,7 +29,7 @@ export const POST = async (request: Request) => {
     if (process.env.NODE_ENV && process.env.NODE_ENV === 'development') {
       return NextResponse.json({ status: 'success', fileUrl: 'http://localhost:3000/api/job/?file=' + fileName }, { status: 200 })
     }
-    return NextResponse.json({ status: 'success', fileUrl: 'https://devtitechnologie.com/api/job/?file=' + fileName }, { status: 200 })
+    return NextResponse.json({ status: 'success', fileUrl: 'https://es.devtitechnologie.com/api/job/?file=' + fileName }, { status: 200 })
   } catch (error) {
     console.error('Error uploading file:', error)
     return NextResponse.json({ status: 'error', message: 'Failed to upload file' }, { status: 500 })

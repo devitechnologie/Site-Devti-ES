@@ -3,10 +3,10 @@ import { NextRequest, NextResponse } from 'next/server';
 
 const intlMiddleware = createMiddleware({
   // A list of all locales that are supported
-  locales: ['en', 'fr'],
+  locales: ['en', 'fr', 'es'],
 
   // Used when no locale matches
-  defaultLocale: 'fr'
+  defaultLocale: 'es',
 });
 
 export function middleware(request: NextRequest): NextResponse {
