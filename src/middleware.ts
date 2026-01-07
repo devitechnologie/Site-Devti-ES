@@ -7,6 +7,9 @@ const intlMiddleware = createMiddleware({
 
   // Used when no locale matches
   defaultLocale: 'es',
+
+  // Hide the default locale prefix from URLs
+  localePrefix: 'as-needed'
 });
 
 export function middleware(request: NextRequest): NextResponse {
